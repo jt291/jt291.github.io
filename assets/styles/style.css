@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+
+/* réglages généraux */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.hidden, [hidden] {
+  display: none;
+}
+
+/* variables css */
+:root {
+  --font-cursive: 'Henny Penny', cursive;
+  /* variables css docsify-themeable */
+  --cover-max-width: 65em;
+  --cover-background-image: var(--bg-color-cover);
+  --sidebar-name-color: var(--theme-color);
+  --theme-color: var(--color-primary);
+}
+
+:root,
+.light {
+  /* couleurs en mode clair */
+  --color-primary: hsl(294.7 72.4% 39.8%);
+  --color-primary-inverse: hsl(292.4 100% 79.5%);
+
+  --color-styles: hsl(47.7 100% 50.9%);
+  --bg-color-styles: hsl(54.9 96.7% 88%);
+  --border-color-styles: hsl(47.7 100% 50.9%);
+
+  --color-fusions: hsl(20.5 90.2% 48.2%);
+  --bg-color-fusions: hsl(34.3 100% 91.8%);
+  --border-color-fusions: hsl(20.5 90.2% 48.2%);
+
+  --color-formations: hsl(346.8 77.2% 49.8%);
+  --bg-color-formations: hsl(355.6 100% 94.7%);
+  --border-color-formations: hsl(346.8 77.2% 49.8%);
+
+  --color-coeurs: hsl(271.5 81.3% 55.9%);
+  --bg-color-coeurs: hsl(268.7 100% 95.5%);
+  --border-color-coeurs: hsl(271.5 81.3% 55.9%);
+
+  --bg-color-cover: linear-gradient(to bottom,var(--bg-color-styles),var(--bg-color-fusions),var(--bg-color-formations),var(--bg-color-coeurs));
+}
+
+.dark {
+  /* couleurs en mode sombre */
+  --color-primary: hsl(292.4 100% 79.5%);
+  --color-primary-inverse: hsl(294.7 72.4% 39.8%);
+
+  --color-styles: hsl(47.7 100% 50.9%);
+  --bg-color-styles: hsl(28.1 68.6% 29%);
+  --border-color-styles: hsl(47.7 100% 50.9%);
+
+  --color-fusions: hsl(27.2 100% 57.7%);
+  --bg-color-fusions: hsl(15.1 70.9% 31.1%);
+  --border-color-fusions: hsl(27.2 100% 57.7%);
+
+  --color-formations: hsl(351.2 100% 58.1%);
+  --bg-color-formations: hsl(342.8 68.9% 34.2%);
+  --border-color-formations: hsl(351.2 100% 58.1%);
+
+  --color-coeurs: hsl(270.5 100% 71.9%);
+  --bg-color-coeurs: hsl(273.6 61.8% 35.4%);
+  --border-color-coeurs: hsl(270.5 100% 71.9%);
+
+  --color-theme-button: hsl(47.7 100% 50.9%);
+}
+
+.styles {
+  /* docsify-themeable */
+  --heading-h1-color: var(--color-styles);
+  --heading-h2-color: var(--color-styles);
+  --heading-h2-border-color: var(--border-color-styles);
+  /* app-frame */
+  --background: var(--bg-color-styles);
+  --bar-background: var(--color-styles);
+  --border-color: var(--border-color-styles);
+  --border-width: 2px;
+}
+.fusions {
+  /* docsify-themeable */
+  --heading-h1-color: var(--color-fusions);
+  --heading-h2-color: var(--color-fusions);
+  --heading-h2-border-color: var(--border-color-fusions);
+  /* app-frame */
+  --background: var(--bg-color-fusions);
+  --bar-background: var(--color-fusions);
+  --border-color: var(--border-color-fusions);
+  --border-width: 2px;
+}
+.formations {
+  /* docsify-themeable */
+  --heading-h1-color: var(--color-formations);
+  --heading-h2-color: var(--color-formations);
+  --heading-h2-border-color: var(--border-color-formations);
+  /* app-frame */
+  --background: var(--bg-color-formations);
+  --bar-background: var(--color-formations);
+  --border-color: var(--border-color-formations);
+  --border-width: 2px;
+}
+.coeurs {
+  /* docsify-themeable */
+  --heading-h1-color: var(--color-coeurs);
+  --heading-h2-color: var(--color-coeurs);
+  --heading-h2-border-color: var(--border-color-coeurs);
+  /* app-frame */
+  --background: var(--bg-color-coeurs);
+  --bar-background: var(--color-coeurs);
+  --border-color: var(--border-color-coeurs);
+  --border-width: 2px;
+}
+
+/* navbar docsify */
+nav.app-nav {
+  font-size: 24px;
+}
+nav.app-nav button.btn-theme {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+  color: var(--color-theme-button);
+}
+
+/* sidebar docsify */
+.sidebar > h1.app-name {
+  font-family: var(--font-cursive);
+  font-size: 300%;
+}
+.styles .sidebar-toggle .sidebar-toggle-button{
+  color: var(--bg-color-styles);
+  background-color: var(--color-styles);
+}
+.fusions .sidebar-toggle .sidebar-toggle-button{
+  color: var(--bg-color-fusions);
+  background-color: var(--color-fusions);
+}
+.formations .sidebar-toggle .sidebar-toggle-button{
+  color: var(--bg-color-formations);
+  background-color: var(--color-formations);
+}
+.coeurs .sidebar-toggle .sidebar-toggle-button{
+  color: var(--bg-color-coeurs);
+  background-color: var(--color-coeurs);
+}
+
+/* coverpage docsify */
+.cover-main > h1 > span {
+  font-family: var(--font-cursive);
+  font-size: 600%;
+  color: var(--color-primary);
+}
+
+/* encarts */
+.encarts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.encart {
+  margin: 0;
+  width: 350px;
+  height: auto;
+}
+.markdown-section figure.encart {
+  margin: 0;
+}
+
+/* app-frame device-frames */
+.app-frame.encart.left {
+  float: left;
+  margin-right: 1.5rem;
+}
+.app-frame.encart.right {
+  float: right;
+  margin-left: 1.5rem;
+}
+.app-frame .text-align-center{
+  text-align: center;
+}
+
+.app-frame > video {
+  width: 100%;
+}
+
+/* playlist */
+article.playlist {
+  max-height: 90vh;
+  overflow-y: auto;
+}
+label.playlist__track {
+  padding: 0 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  cursor: pointer;
+  border-bottom: 1px solid #e2e2e2;
+}
+label.playlist__track > p.playlist__track__description {
+  margin: 0.5rem 0;
+}
+label.playlist__track > input[type="radio"] {
+  flex: 0 0 auto;
+  appearance: none;
+  display: grid;
+  place-items: center;
+  margin: 0;
+  height: 1.75rem;
+  width: 1.75rem;
+}
+label.playlist__track > input[type="radio"]::before {
+  content: " ";
+  display: grid;
+  place-items: center;
+  height: 1.25rem;
+  width: 1.25rem;
+}
+.light label.playlist__track > input[type="radio"]:checked::before {
+  content: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="1.5em" height="1.5em" viewBox="0 0 24 24"%3E%3Cpath fill="hsl(294.7 72.4% 39.8%)" d="M22 6c-1 5-7 5-7 5H4c-1 0-2-1-2-1H1v4h1s1-1 2-1h.3c-.2.3-.3.6-.3 1v2c0 1.1.9 2 2 2h1v1h2v-1h1v1h2v-1h1v1h2v-1h1c1.1 0 2-.9 2-2v-2c0-.1 0-.3-.1-.4c1.7.6 3.5 1.8 4.1 4.4h1V6h-1M6 16.5c-.3 0-.5-.2-.5-.5v-2c0-.3.2-.5.5-.5h1v3H6m3 0v-3h1v3H9m3 0v-3h1v3h-1m4.5-.5c0 .3-.2.5-.5.5h-1v-3h1c.3 0 .5.2.5.5v2M9 10H7V9h2v1m3 0h-2V9h2v1m3 0h-2V9h2v1Z"%2F%3E%3C%2Fsvg%3E');
+}
+.dark label.playlist__track > input[type="radio"]:checked::before {
+  content: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="1.5em" height="1.5em" viewBox="0 0 24 24"%3E%3Cpath fill="hsl(292.4 100% 79.5%)" d="M22 6c-1 5-7 5-7 5H4c-1 0-2-1-2-1H1v4h1s1-1 2-1h.3c-.2.3-.3.6-.3 1v2c0 1.1.9 2 2 2h1v1h2v-1h1v1h2v-1h1v1h2v-1h1c1.1 0 2-.9 2-2v-2c0-.1 0-.3-.1-.4c1.7.6 3.5 1.8 4.1 4.4h1V6h-1M6 16.5c-.3 0-.5-.2-.5-.5v-2c0-.3.2-.5.5-.5h1v3H6m3 0v-3h1v3H9m3 0v-3h1v3h-1m4.5-.5c0 .3-.2.5-.5.5h-1v-3h1c.3 0 .5.2.5.5v2M9 10H7V9h2v1m3 0h-2V9h2v1m3 0h-2V9h2v1Z"%2F%3E%3C%2Fsvg%3E');
+}
+ol.playlist__ol {
+  max-height: 75vh;
+  overflow-y: auto;
+  padding-left: 2.5em;
+}
+li.playlist__li:hover {
+  background-color: var(--color-primary-inverse);
+  color: var(--color-primary);
+}
+audio.playlist__audio__control {
+  width: 100%;
+}
+div.playlist__audio__scroll {
+  overflow: hidden;
+}
+div.playlist__audio__description {
+  font-weight: bold;
+  text-align: right;
+  margin: 0;
+  animation: scroll-text 10s linear infinite;
+  color: var(--color-primary);
+}
+div.playlist__audio__description > svg {
+  display: inline;
+  vertical-align: top;
+}
+
+@keyframes scroll-text {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+/* */

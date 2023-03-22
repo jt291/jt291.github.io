@@ -12,7 +12,7 @@
         main.classList.remove(level)
       })
       const page = document.body.dataset.page
-      const levelName = page.split('/')[1].replace(/\.md/g,'')
+      const levelName = page.split('/')[0].replace(/\.md/g,'')
       main.classList.add(levelName)
     })
   })

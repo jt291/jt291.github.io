@@ -1,6 +1,8 @@
 # Jazz
 
 Ce site est consacré au jazz.
+
+**Attention** : site en construction, visitable sur [https://jt291.github.io/](https://jt291.github.io/)
 ## Pourquoi ?
 - Parce que le jazz est une musique aux multiples facettes.
 - Parce que c'est une musique riche et encore vivante.

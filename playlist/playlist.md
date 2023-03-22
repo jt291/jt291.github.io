@@ -3,7 +3,6 @@
 fichier généré automatiquement par assets/plugins/playlist/create-playlist.mjs
 ne pas modifier
 -->
-
 # Liste de lecture
 
 <article class="playlist">

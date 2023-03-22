@@ -39,8 +39,22 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/A-night-in-Tunisia__Art-Blakey-and-the-Jazz-Messengers.mp3">
+<p class="playlist__track__description">A night in Tunisia - Art Blakey and the Jazz Messengers</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/A-night-in-Tunisia__Dizzy-Gillespie.mp3">
 <p class="playlist__track__description">A night in Tunisia - Dizzy Gillespie</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Annobon__Aldo-Romano-Louis-Sclavis-Henri-Texier.mp3">
+<p class="playlist__track__description">Annobon - Aldo Romano Louis Sclavis Henri Texier</p>
 </label>
 </li>
 
@@ -53,8 +67,29 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Azertis__Akosh-S.-Unit.mp3">
+<p class="playlist__track__description">Azertis - Akosh S. Unit</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Bebop__Charlie-Parker.mp3">
 <p class="playlist__track__description">Bebop - Charlie Parker</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Blue-Rondo-a-la-Turk__Dave-Brubeck-Quartet.mp3">
+<p class="playlist__track__description">Blue Rondo a la Turk - Dave Brubeck Quartet</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Breakfast-in-Baghdad__Youn-Sun-Nah.mp3">
+<p class="playlist__track__description">Breakfast in Baghdad - Youn Sun Nah</p>
 </label>
 </li>
 
@@ -81,8 +116,22 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Crystal-silence__C.-Coreao-G.-Burton.mp3">
+<p class="playlist__track__description">Crystal silence - C. Coreao G. Burton</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Cubana-Bop__Dizzy-Gillespie.mp3">
 <p class="playlist__track__description">Cubana Bop - Dizzy Gillespie</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Cult-of-twins__GRIO.mp3">
+<p class="playlist__track__description">Cult of twins - GRIO</p>
 </label>
 </li>
 
@@ -97,6 +146,20 @@ ne pas modifier
 <label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Django-s-waltz-Mont-St-Genevieve__Romane.mp3">
 <p class="playlist__track__description">Django s waltz Mont St Genevieve - Romane</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Et-pour-quelques-fayots-de-plus__Xartiste.mp3">
+<p class="playlist__track__description">Et pour quelques fayots de plus - Xartiste</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Exit-music__B.-Mehldau.mp3">
+<p class="playlist__track__description">Exit music - B. Mehldau</p>
 </label>
 </li>
 
@@ -125,6 +188,20 @@ ne pas modifier
 <label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/It-don-t-mean-a-thing-if-it-ain-t-got-that-swing__Duke-Ellington.mp3">
 <p class="playlist__track__description">It don t mean a thing if it ain t got that swing - Duke Ellington</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Jumping-at-the-Woodside__Count-Basie.mp3">
+<p class="playlist__track__description">Jumping at the Woodside - Count Basie</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/La-petite-gitane-Cigancica__Bojan-Zulfikarpasic.mp3">
+<p class="playlist__track__description">La petite gitane Cigancica - Bojan Zulfikarpasic</p>
 </label>
 </li>
 
@@ -188,6 +265,13 @@ ne pas modifier
 <label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Odwalla__Art-Ensemble-of-Chicago.mp3">
 <p class="playlist__track__description">Odwalla - Art Ensemble of Chicago</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Ole__John-Coltrane.mp3">
+<p class="playlist__track__description">Ole - John Coltrane</p>
 </label>
 </li>
 
@@ -270,8 +354,22 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Solobsession__Bojan.Zulfikarpasic.mp3">
+<p class="playlist__track__description">Solobsession - Bojan.Zulfikarpasic</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Soul-Bossa-Nova__Quincy-Jones.mp3">
 <p class="playlist__track__description">Soul Bossa Nova - Quincy Jones</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Spain__Bobby-McFerrin-and-the-Chick-Corea.mp3">
+<p class="playlist__track__description">Spain - Bobby McFerrin and the Chick Corea</p>
 </label>
 </li>
 
@@ -305,7 +403,7 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
-<input name="playlist" type="radio" value="../assets/audios/The-chicken__Jaco Pastorius.mp3">
+<input name="playlist" type="radio" value="../assets/audios/The-chicken__Jaco-Pastorius.mp3">
 <p class="playlist__track__description">The chicken - Jaco Pastorius</p>
 </label>
 </li>
@@ -326,7 +424,7 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
-<input name="playlist" type="radio" value="../assets/audios/Voodoo-house__Julien Lourau.mp3">
+<input name="playlist" type="radio" value="../assets/audios/Voodoo-house__Julien-Lourau.mp3">
 <p class="playlist__track__description">Voodoo house - Julien Lourau</p>
 </label>
 </li>
@@ -340,8 +438,15 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
-<input name="playlist" type="radio" value="../assets/audios/Xmorceau__Naïssam-Jalal.mp3">
-<p class="playlist__track__description">Xmorceau - Naïssam Jalal</p>
+<input name="playlist" type="radio" value="../assets/audios/Xmorceau__Bajka-Moujik.mp3">
+<p class="playlist__track__description">Xmorceau - Bajka Moujik</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Xmorceau__Naissam-Jalal.mp3">
+<p class="playlist__track__description">Xmorceau - Naissam Jalal</p>
 </label>
 </li>
 

@@ -21,20 +21,6 @@ Ce site s'adresse avant tout aux non initiés. C'est-à-dire à celles et ceux q
 ## Comment ?
 En multipliant les approches à travers un site qui se veut à la fois simple, fluide et varié. Quatre rubriques différentes contiennent différentes entrées : Styles, Fusions, Formations et Coups de coeur. Chaque entrée comporte une explication générale, une écoute principale accompagnée d'éléments de compréhension et des écoutes secondaires en rapport avec la première pour prolonger le propos. Le visiteur peut flâner dans le site au gré de  son humeur. Des liens internes facilitent une navigation libre. C'est avant tout une envie de partager la musique par une approche sensible et plaisante.
 
-<!-- tabs:start -->
-#### **Styles**
-C'est une approche en fonction des différents styles qui se sont développés au cours de l'histoire de cette musique. Les entrées sont plutôt historiques.
-
-#### **Fusions**
-Le <span style="font-family:var(--font-cursive);">jazz</span> est issu d'un mélange de nombreuses musiques différentes et il s'est lui même mélangé à d'autres musiques. Quelques fusions sont présentées ici.
-
-#### **Formations**
-Il existe des formations types pour le <span style="font-family:var(--font-cursive);">jazz</span>. Mais des expérimentations vers des formules atypiques ont aussi été faites.
-
-#### **Coups de coeur**
-C'est la rubrique des écoutes qui ne trouvaient pas leur place dans les rubriques précédentes ou que cette place était déjà prise mais que je voulais partager absolument.
-<!-- tabs:end -->
-
 <div class="encarts">
   <figure class="app-frame encart styles" data-title="Styles">
     C'est une approche en fonction des différents styles qui se sont développés au cours de l'histoire de cette musique. Les entrées sont plutôt historiques.

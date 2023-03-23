@@ -3,6 +3,7 @@
 fichier généré automatiquement par assets/plugins/playlist/create-playlist.mjs
 ne pas modifier
 -->
+
 # Liste de lecture
 
 <article class="playlist">
@@ -108,6 +109,13 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Concierto-de-Aranjuez-Adagio__Miles-Davis.mp3">
+<p class="playlist__track__description">Concierto de Aranjuez Adagio - Miles Davis</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Cornet-chop-suey__Louis-Armstrong.mp3">
 <p class="playlist__track__description">Cornet chop suey - Louis Armstrong</p>
 </label>
@@ -150,6 +158,13 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Echoes-of-France__Hot-Club-of-France.mp3">
+<p class="playlist__track__description">Echoes of France - Hot Club of France</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Et-pour-quelques-fayots-de-plus__Xartiste.mp3">
 <p class="playlist__track__description">Et pour quelques fayots de plus - Xartiste</p>
 </label>
@@ -159,6 +174,13 @@ ne pas modifier
 <label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Exit-music__B.-Mehldau.mp3">
 <p class="playlist__track__description">Exit music - B. Mehldau</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Flying-home__Lionel-Hampton.mp3">
+<p class="playlist__track__description">Flying home - Lionel Hampton</p>
 </label>
 </li>
 
@@ -185,6 +207,13 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Indians-Desaparecido__Henri-Texier.mp3">
+<p class="playlist__track__description">Indians Desaparecido - Henri Texier</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/It-don-t-mean-a-thing-if-it-ain-t-got-that-swing__Duke-Ellington.mp3">
 <p class="playlist__track__description">It don t mean a thing if it ain t got that swing - Duke Ellington</p>
 </label>
@@ -199,6 +228,20 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Koln-Konzert__Keith-Jarrett.mp3">
+<p class="playlist__track__description">Koln Konzert - Keith Jarrett</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/La-fiesta__Stan-Getz.mp3">
+<p class="playlist__track__description">La fiesta - Stan Getz</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/La-petite-gitane-Cigancica__Bojan-Zulfikarpasic.mp3">
 <p class="playlist__track__description">La petite gitane Cigancica - Bojan Zulfikarpasic</p>
 </label>
@@ -206,8 +249,29 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Libertango__Galliano-Portal.mp3">
+<p class="playlist__track__description">Libertango - Galliano Portal</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Little.Camels__Rabih-Abou-Khalil.mp3">
+<p class="playlist__track__description">Little.Camels - Rabih Abou Khalil</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Livery-stable-blues__Original-Dixieland-Jass-Band.mp3">
 <p class="playlist__track__description">Livery stable blues - Original Dixieland Jass Band</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Love-in-outer-space__Thomas-de-Pourquery.mp3">
+<p class="playlist__track__description">Love in outer space - Thomas de Pourquery</p>
 </label>
 </li>
 
@@ -241,8 +305,22 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Mozambic__Michel-Portal.mp3">
+<p class="playlist__track__description">Mozambic - Michel Portal</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Mulatu__Mulatu-Astatke.mp3">
 <p class="playlist__track__description">Mulatu - Mulatu Astatke</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/My-favorite-things__John-Coltrane.mp3">
+<p class="playlist__track__description">My favorite things - John Coltrane</p>
 </label>
 </li>
 
@@ -278,6 +356,13 @@ ne pas modifier
 <label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/One-o-clock-jump__Count-Basie.mp3">
 <p class="playlist__track__description">One o clock jump - Count Basie</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Ornette__Humair-Kuhn-Jenny-Clarke-Trio.mp3">
+<p class="playlist__track__description">Ornette - Humair Kuhn Jenny Clarke Trio</p>
 </label>
 </li>
 
@@ -353,6 +438,13 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Round-about-midnight__Miles-Davis-Quintet.mp3">
+<p class="playlist__track__description">Round about midnight - Miles Davis Quintet</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Solobsession__Bojan.Zulfikarpasic.mp3">
 <p class="playlist__track__description">Solobsession - Bojan.Zulfikarpasic</p>
 </label>
@@ -374,6 +466,13 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Spain__Chick-Corea.mp3">
+<p class="playlist__track__description">Spain - Chick Corea</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Spintronix__Xartiste.mp3">
 <p class="playlist__track__description">Spintronix - Xartiste</p>
 </label>
@@ -388,8 +487,29 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Strange-Fruit__Nina-Simone.mp3">
+<p class="playlist__track__description">Strange Fruit - Nina Simone</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Tahah__John-Zorn-Masada-Alef.mp3">
+<p class="playlist__track__description">Tahah - John Zorn Masada Alef</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Take-Five__The-Dave-Brubeck-Quartet.mp3">
 <p class="playlist__track__description">Take Five - The Dave Brubeck Quartet</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Take-the-A-train__Duke-Ellington.mp3">
+<p class="playlist__track__description">Take the A train - Duke Ellington</p>
 </label>
 </li>
 
@@ -409,8 +529,22 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/The-cure__Keith-Jarrett-Trio.mp3">
+<p class="playlist__track__description">The cure - Keith Jarrett Trio</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/The-girl-from-Ipanema__Astrud-Gilberto.mp3">
 <p class="playlist__track__description">The girl from Ipanema - Astrud Gilberto</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/The-song-is-you__Keith-Jarrett-Trio.mp3">
+<p class="playlist__track__description">The song is you - Keith Jarrett Trio</p>
 </label>
 </li>
 
@@ -437,6 +571,13 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/When-God-created-the-coffebreak__Esbjorn-Svensson-Trio.mp3">
+<p class="playlist__track__description">When God created the coffebreak - Esbjorn Svensson Trio</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Xmorceau__Bajka-Moujik.mp3">
 <p class="playlist__track__description">Xmorceau - Bajka Moujik</p>
 </label>
@@ -446,6 +587,13 @@ ne pas modifier
 <label class="playlist__track">
 <input name="playlist" type="radio" value="../assets/audios/Xmorceau__Naissam-Jalal.mp3">
 <p class="playlist__track__description">Xmorceau - Naissam Jalal</p>
+</label>
+</li>
+
+<li class="playlist__li">
+<label class="playlist__track">
+<input name="playlist" type="radio" value="../assets/audios/Ysabels-table-dance__Charles-Mingus.mp3">
+<p class="playlist__track__description">Ysabels table dance - Charles Mingus</p>
 </label>
 </li>
 

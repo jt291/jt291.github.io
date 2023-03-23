@@ -4,7 +4,7 @@
   }
 
   window.$docsify.plugins.push(hook => {
-    const levels = ['accueil', 'styles', 'fusions', 'formations', 'coeurs', 'outils', 'playlist']
+    const levels = ['accueil', 'styles', 'fusions', 'formations', 'coeurs', 'outils', 'playlist', 'partitions']
 
     hook.doneEach(function () {
       const main = document.body.querySelector('main')

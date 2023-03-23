@@ -7,7 +7,7 @@ L'idée n'est pas une fois de plus balayer les plus de 100 ans de l'histoire du 
 
 ## 1915--1930 : Early Jazz
 <figure id="king-olliver" class="app-frame encart styles left" data-title="King Olliver Creole Jazz Band">
-  <img src="./assets/images/king-olliver.jpg">
+  <img src="assets/images/king-olliver.jpg">
 </figure>
 
 Plus souvent appelé Jazz New Orleans, c'est le jazz des débuts. La Nouvelle Orléans a longtemps été considérée comme étant le berceau du jazz et il est vrai que sans cette ville, le jazz ne serait sans doute pas né. Mais la Nouvelle Orléans seule n'a pas crée le jazz. Il existait une musique similaire dans d'autres endroits des Etats-Unis comme à Kansas City par exemple. C'est pour cela que l'appelation Early Jazz semble plus appropriée.
@@ -29,7 +29,7 @@ C'est la période des grands orchestres, les fameux big bands. On parle aussi de
 Première révolution musicale du jazz. C'est une entreprise de réappropriation musicale effectuée par des musiciens qui s'ennuient dans les big bands de style swing. Les arrangements stéréotypés et les solos pré-progammés dans leur durée ne leur conviennent plus. Ce style est né lors des after hours, après avoir effectué leur travail journalier dans les grands orchestres, les musiciens se retrouvent dans des clubs plus confidentiels pour des jam sessions (littéralement séances d'improvisation que l'on appelle aussi « boeuf » en français). Les musiciens y jouent des standards qu'ils revisitent quitte à les transformer totalement voire à créer de nouveaux morceaux à partir de ces standards.
 Ce style a été très critiqués par une partie du public mais aussi de la critique et des médias de l'époque considérant que ce nouveau style n'était pas du jazz.
 
-   
+
 
 ## 1949--1955 : Cool
 <figure class="app-frame encart styles right" data-title="Dave Brubeck">
@@ -38,7 +38,7 @@ Ce style a été très critiqués par une partie du public mais aussi de la crit
 
 Appelé aussi West Coast, le style Cool est une réaction au Be Bop. Il se développe sur la côte ouest des Etats-Unis. Il est joué par beaucoup de musiciens blancs. C'est un style plus sage et présentable que le Be Bop. Il s'accordera bien avec le cinéma notamment d'Hollywood. On retrouve des morceaux aux arrangements plus élaborés, des références à la musique savante occidentale plus fréquentes, des tempos plus lents et des improvisations plus relâchées et moins effreinées qu'en Be Bop. C'est le style de référence au mouvement Beatniks de Jack Kerouac et consorts.
 
-> « Je veux être considéré comme un poète de jazz soufflant un long blues au cours d'une jam-session 
+> « Je veux être considéré comme un poète de jazz soufflant un long blues au cours d'une jam-session
 > un dimanche après-midi. »
 > Jack Kerouac (1922-1969), écrivain et poète américain
 

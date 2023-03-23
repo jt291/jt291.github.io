@@ -18,7 +18,7 @@ Bien que le swing soit encore assez rustique ce morceau va connaitre un grand su
 ## Ecoutes complémentaires
 <figure class="app-frame encart styles" data-title="Dippermouth Blues - King Oliver's Creole Jazz Band">
   <div class="text-align-center">
-    <iframe width="100%" src="https://www.youtube.com/embed/o41DMsV5MFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/o41DMsV5MFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   <p>
     Le King Oliver's Creole Jazz Band aussi originaire de la Nouvelle-Orléans a un swing plus affirmé et les solos notamment à la trompette bouchée sont résolumment Blues. On peut y entendre l'émergence de solistes qui ont une place plus affirmée notamment le jeune Louis Armstrong.

@@ -197,6 +197,9 @@ nav.app-nav button.btn-theme {
 iframe {
   width: 100%;
 }
+.margin-section iframe {
+  margin: 0;
+}
 
 /* playlist */
 article.playlist {

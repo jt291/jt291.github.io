@@ -194,6 +194,10 @@ nav.app-nav button.btn-theme {
   width: 100%;
 }
 
+iframe {
+  width: 100%;
+}
+
 /* playlist */
 article.playlist {
   max-height: 90vh;

@@ -19,6 +19,7 @@ html {
 :root {
   --font-cursive: 'Henny Penny', cursive;
   /* variables css docsify-themeable */
+  --content-max-width : 55em;
   --cover-max-width: 65em;
   --cover-background-image: var(--bg-color-cover);
   --sidebar-name-color: var(--theme-color);
@@ -167,10 +168,12 @@ nav.app-nav button.btn-theme {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
+  row-gap: 2rem;
+  justify-content: space-between;
 }
 .encart {
   margin: 0;
-  width: 350px;
+  width: 340px;
   height: auto;
 }
 .markdown-section figure.encart {
@@ -197,7 +200,7 @@ nav.app-nav button.btn-theme {
 .app-frame iframe {
   width: 100%;
 }
-.margin-section iframe {
+.markdown-section iframe {
   margin: 0;
 }
 

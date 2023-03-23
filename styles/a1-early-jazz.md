@@ -16,6 +16,7 @@ L'effet supplémentaire  est l'intervention régulière au cours de sons réalis
 Bien que le swing soit encore assez rustique ce morceau va connaitre un grand succès et servira de référence à beaucoup d'auditeurs. Nous leur préférerons d'autres morceaux et écoutes que nous suggérons en écoutes complémentaires.
 
 ## Ecoutes complémentaires
+<div class="encarts">
 <figure class="app-frame encart styles" data-title="Dippermouth Blues - King Oliver's Creole Jazz Band">
   <div class="text-align-center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/o41DMsV5MFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -25,13 +26,7 @@ Bien que le swing soit encore assez rustique ce morceau va connaitre un grand su
   </p>
 </figure>
 
-<figure class="app-frame encart styles" data-title="Dippermouth Blues - King Oliver's Creole Jazz Band">
-  <div class="text-align-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ueAcG23HL08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</figure>
-
-<figure class="app-frame styles" data-title="Cornet Chop Suey - Louis Armstrong">
+<figure class="app-frame encart styles" data-title="Cornet Chop Suey - Louis Armstrong">
   <div class="text-align-center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/--xy6nxea2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
@@ -40,7 +35,7 @@ Bien que le swing soit encore assez rustique ce morceau va connaitre un grand su
   </p>
 </figure>
 
-<figure class="app-frame styles" data-title="Petite fleur - Sydney Bechet">
+<figure class="app-frame encart styles" data-title="Petite fleur - Sydney Bechet">
   <div class="text-align-center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OfD_5XfEDy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
@@ -48,4 +43,4 @@ Bien que le swing soit encore assez rustique ce morceau va connaitre un grand su
     Le jazz serait entré en Europe par le port de Brest dès 1917. Mais le musicien qui va aider à la popularisation de cette musique en France est le saxophoniste Sydney Bechet. Il s'y installa même en 1949. Son morceau Petite Fleur connu un très grand succès.
   </p>
 </figure>
-
+</div>

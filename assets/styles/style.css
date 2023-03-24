@@ -201,6 +201,7 @@ nav.app-nav button.btn-theme {
   text-align: center;
 }
 
+.app-frame  img,
 .app-frame > video {
   width: 100%;
 }
@@ -293,6 +294,9 @@ div.playlist__audio__description > svg {
 }
 
 /* */
+.cover-main img {
+  margin-top: 2rem;
+}
 #qui-suis-je- {
   padding: 0 1rem;
   background-image:url(../../assets/images/6_Plan-de-travail-1.jpg);

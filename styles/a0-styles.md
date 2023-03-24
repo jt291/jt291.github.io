@@ -6,18 +6,14 @@ Le jazz est né dans les Etats du Sud des Etats-Unis aux alentours de 1910. Il v
 L'idée n'est pas une fois de plus balayer les plus de 100 ans de l'histoire du jazz mais de présenter d'une manière chronologique les premiers styles développés aux débuts du jazz.
 
 ## 1915--1930 : Early Jazz
-<figure id="king-olliver" class="app-frame encart styles left" data-title="King Olliver Creole Jazz Band">
-  <img src="assets/images/king-olliver.jpg">
-</figure>
+[<figure id="king-olliver" class="app-frame encart styles left" data-title="King Olliver Creole Jazz Band"><img src="assets/images/king-olliver.jpg"></figure>](/styles/a1-early-jazz.md)
 
 Plus souvent appelé Jazz New Orleans, c'est le jazz des débuts. La Nouvelle Orléans a longtemps été considérée comme étant le berceau du jazz et il est vrai que sans cette ville, le jazz ne serait sans doute pas né. Mais la Nouvelle Orléans seule n'a pas crée le jazz. Il existait une musique similaire dans d'autres endroits des Etats-Unis comme à Kansas City par exemple. C'est pour cela que l'appelation Early Jazz semble plus appropriée.
 Dès la fin du XXè siècle un proto-jazz se développe. Les influences musicales à la création du jazz sont très nombreuses. On trouve des éléments de musiques africaines (chants de travail en dialogue entre un soliste et un groupe qui repond), des éléments de musiques occidentales (influence de la musique dite sérieuse comme l'opéra et des fanfares militaires...), et du blues, du negro spirituals, du ragtime... .
 C'est au départ une musique à danser assez festive jouée dans la rue ou dans les bars et maisons closes des quartiers chauds des villes.
 
 ## 1930--1945 : Swing
-<figure class="app-frame encart styles right" data-title="Le Savoy Ball Room à Harlem">
-  <img src="assets/images/savoy-harlem.jpg">
-</figure>
+[<figure class="app-frame encart styles right" data-title="Le Savoy Ball Room à Harlem"><img src="assets/images/Savoy-harlem.jpg"></figure>](/styles/a2-swing.md)
 
 C'est la période des grands orchestres, les fameux big bands. On parle aussi de Middle Jazz ou de Jazz Mainstream. C'est une forme de musique à danser très stéréotypée. On quitte l'improvisation collective pour des morceaux plus arrangés aux orchestrations soignées qui laissent la part belle aux solistes. Les big bands sont composés de nombreux musiciens (voir la rubrique [big band](/formations/c6-big-band)). Les morceaux joués des compositions originales ou des chansons de variétés deviendront les standards de jazz. Le développement de ce style a été très important durant la période de prohibition aux Etats-Unis. Même durant la période de crise des années 1930, un public blanc vient s'amuser, se divertir et danser dans les grands clubs et autres discothèques comme le Savoy dans le quartier de Harlem à New-York. Ce style est considéré par beaucoup comme étant l'âge d'or du jazz.
 

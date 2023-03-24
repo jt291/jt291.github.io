@@ -197,7 +197,7 @@ nav.app-nav button.btn-theme {
   width: 100%;
 }
 
-.app-frame iframe {
+.partitions iframe {
   width: 100%;
   height: 90vh;
   border: 1px solid lightgray;

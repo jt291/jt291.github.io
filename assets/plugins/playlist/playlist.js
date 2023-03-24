@@ -16,6 +16,7 @@
             ev.preventDefault()
             span.innerHTML = input.nextElementSibling.innerHTML
             audio.src = input.value
+            if (audio.src) { audio.autoplay = true }
          })
         }
       }

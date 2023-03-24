@@ -7,7 +7,7 @@ function isAudioFile(filename) {
   return audioExtensions.includes(extname(filename))
 }
 
-async function getAllMP3(dirname='./assets/audios') {
+async function getAllMP3(dirname='assets/audios') {
   try {
     const files = await readdir(dirname, { withFileTypes: true })
     return files.filter(file => file.isFile() && isAudioFile(file.name)).map(file => file.name).sort()
@@ -51,7 +51,7 @@ async function makePlaylist(dirname) {
     html += `
       <li class="playlist__li">
       <label class="playlist__track">
-        <input name="playlist" type="radio" value="${relative('./playlist', dirname)}/${file}">
+        <input name="playlist" type="radio" value="${dirname}/${file}">
         <p class="playlist__track__description">${title} - ${artist}</p>
       </label>
       </li>

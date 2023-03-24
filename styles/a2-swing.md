@@ -9,7 +9,8 @@ Le morceau présenté est interprété par Duke Ellington et son orchestre. Duke
 
 
 <figure class="app-frame styles text-align-center" data-title="It don't mean a thing (If it ain't got that swing) - Duke Ellington">
-  <video src="assets/images/1932-HITS-ARCHIVE-It-Don-t-Mean-A-Thing-If-It-Ain-t-Got-That-Swing-Duke-Ellington-Ivie-A-voc-vidiget-dot-com-1387566.mp4" controls>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jM3DNpnNv5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video src="assets/images/1932-HITS-ARCHIVE-It-Don-t-Mean-A-Thing-If-It-Ain-t-Got-That-Swing-Duke-Ellington-Ivie-A-voc-vidiget-dot-com-1387566.mp4" controls> -->
 </figure>
 
 ## Eléments d'analyse
@@ -19,15 +20,16 @@ La réexposition du thème est faite par tous les musiciens (tutti) sur AA puis 
 ## Ecoutes complémentaires
 <div class="encarts">
  <figure class="app-frame encart text-align-center styles" data-title="One O'Clock Jump - Count Basie & His Orchestra">
-  <video controls src="assets/images/1932-HITS-ARCHIVE-It-Don-t-Mean-A-Thing-If-It-Ain-t-Got-That-Swing-Duke-Ellington-Ivie-A-voc-vidiget-dot-com-1387566.mp4"></video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jM3DNpnNv5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video controls src="assets/images/1932-HITS-ARCHIVE-It-Don-t-Mean-A-Thing-If-It-Ain-t-Got-That-Swing-Duke-Ellington-Ivie-A-voc-vidiget-dot-com-1387566.mp4"></video> -->
   <p>
    Count Basie est un autre grand pianiste et directeur de big band. Son jeu pianistique est assez reconnaissable que l'on pourrait qualifier de tout en finesse. Il a affiné son jeu au cours de sa carrière. Voici une vidéo pour prendre un peu la mesure de l'importance donnée à la présentation des musiciens (pupitres, costumes...).
   </p>
 </figure>
 
   <figure class="app-frame encart text-align-center styles" data-title="Rhythm In A Riff - Billy ECKSTINE & His Orchestra">
-  <video controls src="assets/images/Billy-ECKSTINE-His-Orchestra-Rhythm-In-A-Riff-vidiget-dot-com-1387598.mp4"></video>
-
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TPphR3oF4-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video controls src="assets/images/Billy-ECKSTINE-His-Orchestra-Rhythm-In-A-Riff-vidiget-dot-com-1387598.mp4"></video> -->
   <p>
    Billy Eckstine est sans doute moins connu du grand public. Son apport fut pourtant très intéressant. Il resta toujours ouvert aux nouveautés musicales. Et tout en dirigeant un big band il permi au éléments du Be Bop de s'exprimer dans son orchestre.
   </p>

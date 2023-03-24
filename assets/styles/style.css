@@ -176,6 +176,14 @@ nav.app-nav button.btn-theme {
   width: 340px;
   height: auto;
 }
+.encart-paragraph {
+  width: 100%;
+  display: flex;
+  gap: 1rem;
+}
+.encart-paragraph p {
+  flex: 1 1 0;
+}
 .markdown-section figure.encart {
   margin: 0;
 }

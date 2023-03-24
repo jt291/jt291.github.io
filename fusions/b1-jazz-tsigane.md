@@ -5,7 +5,8 @@ Le Jazz Tzigane ou Jazz Manouche est né en France dans les années 1930. La vil
 La musique jouée par ce Quintette est un mélange de jazz, de musique tzigane, de musique d'Europe Centrale et de l'Est, de chanson française et de répertoire musette.
 
 <figure class="app-frame fusions text-align-center" data-title="Minor Swing - Django Reinhartd et le Hot Club de France">
-  <video src="assets/images/Django-Reinhardt-Minor-Swing-HD-1080p-vidiget-dot-com-1388102.mp4" controls>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gcE1avXFJb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video src="assets/images/Django-Reinhardt-Minor-Swing-HD-1080p-vidiget-dot-com-1388102.mp4" controls> -->
 </figure>
 
 ## Eléments d'analyse
@@ -14,13 +15,15 @@ Ce morceau est l'un des plus connu de Django Reinhardt et Stéphane Grappelli. I
 # Ecoutes complémentaires
 <div class="encarts">
 <figure class="app-frame encart text-align-center fusions" data-title="Minor Swing - Biréli Lagrène">
-    <video controls src="assets/images/Minor-Swing--Bireli-Lagrene2.mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cyZFhJbedA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <video controls src="assets/images/Minor-Swing--Bireli-Lagrene2.mp4"></video> -->
   <p>
    Biréli Lagrène est un des successeurs de django Reinhardt. Il a contribuer à la redécouverte du Jazz Tzigane dans les années 1990.
   </p>
 </figure>
 <figure class="app-frame encart text-align-center fusions" data-title="Django's Waltz - Romane">
-  <video controls src="assets/images/Django-s-Waltz-Mont-St-Genevieve-Romane-vidiget-dot-com-1388190.mp4"></video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/c4eIzI0mx7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video controls src="assets/images/Django-s-Waltz-Mont-St-Genevieve-Romane-vidiget-dot-com-1388190.mp4"></video> -->
   <p>
     Romane est une autre figure majeure du  Jazz Tzigane. Il a crée ssa propre école de Musique Manouche : La Swing Romane Academy
   </p>

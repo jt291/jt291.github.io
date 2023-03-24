@@ -6,7 +6,8 @@ On débnombre aussi parmis les musiciens et groupes importants dans la création
 Ce sont les albums de Miles Davis "In a Silent Way" (1969) "Bitches Brew" (1970) qui expérimentent le mélange des formes et des techniques d'improvisation du jazz avec les instruments électriques du rock.
 
 <figure class="app-frame fusions text-align-center" data-title="Pharoa's Dance - Miles Davis">
-  <video src="assets/images/Pharaoh-s-Dance-vidiget-dot-com-1388283.mp4" controls>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/d8QzACfFGlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video src="assets/images/Pharaoh-s-Dance-vidiget-dot-com-1388283.mp4" controls> -->
 </figure>
 
 ## Eléments d'analyse
@@ -15,13 +16,15 @@ Ce morceau tiré de l'album "Bitches Brew" est représentatif de ce nouveau styl
 # Ecoutes complémentaires
 <div class="encarts">
 <figure class="app-frame encart text-align-center fusions" data-title="Birland - Weather Report">
-    <video controls src="assets/images/Weather-Report-Birdland-vidiget-dot-com-1388299.mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pqashW66D7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <video controls src="assets/images/Weather-Report-Birdland-vidiget-dot-com-1388299.mp4"></video> -->
   <p>
    Comme noté plus haut, le groupe Weather Report aura un impact très important pour la notoriété du Jazz Rock. Le saxophoniste Wayne Shorter décédé en 2023 y était un musicien important. Son morceau Birdland a connu un grand succès. Les groupes Magma en France et Uzeb au Canada feront partie des groupes de reconnus également.
   </p>
 </figure>
 <figure class="app-frame encart text-align-center fusions" data-title="The Chicken - Jaco Pastorius">
-  <video controls src="assets/images/The-Chicken-Studio-Version-vidiget-dot-com-1388335.mp4"></video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VBvxNhaEvHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video controls src="assets/images/The-Chicken-Studio-Version-vidiget-dot-com-1388335.mp4"></video> -->
   <p>
     Bassiste de Weather Report, Jaco Pastorius a aussi mené d'autres projets. Musicien virtuose à la carrière éclaire il a marqué de nombreux bassistes et musiciens. Son apport est très important.
   </p>

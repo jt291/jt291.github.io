@@ -473,8 +473,8 @@ ne pas modifier
 
 <li class="playlist__li">
 <label class="playlist__track">
-<input name="playlist" type="radio" value="../assets/audios/Spintronix__Xartiste.mp3">
-<p class="playlist__track__description">Spintronix - Xartiste</p>
+<input name="playlist" type="radio" value="../assets/audios/Spintronix__Laurent-de-Wilde.mp3">
+<p class="playlist__track__description">Spintronix - Laurent de Wilde</p>
 </label>
 </li>
 

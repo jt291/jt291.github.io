@@ -7,7 +7,8 @@ Les grands noms de ce style qui a révolutionné le jazz sont Charlie Parker (sa
 
 
 <figure class="app-frame styles text-align-center" data-title="Be Bop - Charlie Parker">
-  <video src="assets/images/Charlie-Parker-Bebop-vidiget-dot-com-1387655.mp4" controls>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YZYaSkhRhoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video src="assets/images/Charlie-Parker-Bebop-vidiget-dot-com-1387655.mp4" controls> -->
 </figure>
 
 ## Eléments d'analyse
@@ -17,14 +18,16 @@ Le morceau composé par Dizzy Gillespie respecte encore certains codes du jazz. 
 
 <div class="encarts">
  <figure class="app-frame encart text-align-center styles" data-title="Ornithology - Charlie Parker">
-  <video controls src="assets/images/Charlie-Parker-Ornithology-vidiget-dot-com-1387705.mp4"></video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fsAMAIaas94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video controls src="assets/images/Charlie-Parker-Ornithology-vidiget-dot-com-1387705.mp4"></video> -->
   <p>
   Les boppers sont des intellectuels dont Charlie Parker. Surnommé Bird (oiseau) il écrit un thème auquel il donne le nom d'ornithologie (étude scientifique des oiseaux). Comme un symbole à son art qui est maintenant étudié dans toutes les bonnes écoles de jazz. Musicien au destin tragique il fut incompris par beaucoup de son vivant.
   </p>
 </figure>
 
 <figure class="app-frame encart text-align-center styles" data-title="Now-s-The-Time - Charlie-Parker-The-Savoy-Recordings">
-    <video controls src="assets/images/Now-s-The-Time-Charlie-Parker-The-Savoy-Recordings-vidiget-dot-com-1387720.mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/YuVWNv2kEkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <video controls src="assets/images/Now-s-The-Time-Charlie-Parker-The-Savoy-Recordings-vidiget-dot-com-1387720.mp4"></video> -->
   <p>
   Charlie Parker, encore lui, participe aussi de la prise de conscience politique des musiciens et de leur futur engagement dans les luttes à venir. D'une manière très avant gardiste il intitule son morceau "Now's the time" (c'est le moment). C'est aussi l'occasion de constater qu'il est possible d'avoir des thèmes Be Bop dont le tempo n'est pas très élevé. On peut aussi parfois entendre des ballades.
   </p>

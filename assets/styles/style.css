@@ -29,7 +29,7 @@ html {
 :root,
 .light {
   /* couleurs en mode clair */
-  --color-primary: hsl(294.7 72.4% 39.8%);
+  --color-primary: hsl(217.2 91.2% 59.8%); /*hsl(294.7 72.4% 39.8%);*/
   --color-primary-inverse: hsl(292.4 100% 79.5%);
 
   --color-styles: hsl(47.7 100% 50.9%);
@@ -53,7 +53,7 @@ html {
 
 .dark {
   /* couleurs en mode sombre */
-  --color-primary: hsl(292.4 100% 79.5%);
+  --color-primary: hsl(217.2 91.2% 59.8%);/*hsl(292.4 100% 79.5%);*/
   --color-primary-inverse: hsl(294.7 72.4% 39.8%);
 
   --color-styles: hsl(47.7 100% 50.9%);
@@ -293,3 +293,19 @@ div.playlist__audio__description > svg {
 }
 
 /* */
+#qui-suis-je- {
+  padding: 0 1rem;
+  background-image:url(../../assets/images/6_Plan-de-travail-1.jpg);
+}
+#pourquoi- {
+  padding: 0 1rem;
+  background-image:url(../../assets/images/6_Plan-de-travail-1.jpg);
+}
+#pour-qui- {
+  padding: 0 1rem;
+  background-image:url(../../assets/images/6_Plan-de-travail-1.jpg);
+}
+#comment- {
+  padding: 0 1rem;
+  background-image:url(../../assets/images/6_Plan-de-travail-1.jpg);
+}

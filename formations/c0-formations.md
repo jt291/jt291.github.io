@@ -23,7 +23,7 @@ Les formations de Jazz sont à géométrie variable et il existe de très nombre
 <figure class="app-frame formations encart styles" data-title="Brad Mehldau Trio">
   <img src="assets/images/Brad-Mehldau-Trio.jpg">
 </figure>
-<p> Le trio de jazz est une formation traditionnelle du Jazz. Il est en général constitué des instruments qui assurent la rythmique dans des formlations plus importantes. C'est le fameux trio piano, contrebasse, batterie. Il en existe et en a existé de grand renom. Mais des formules plus atypiques de trio, ont existé de manière convaincante.</p>
+<p> Le trio de jazz est une formation traditionnelle du Jazz. Il est en général constitué des instruments qui assurent la rythmique dans des formations plus importantes. C'est le fameux trio piano, contrebasse, batterie. Il en existe et en a existé de grand renom. Mais des formules plus atypiques de trio, ont existé de manière convaincante.</p>
 </div>
 
 ## Quartet

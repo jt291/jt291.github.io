@@ -6,7 +6,8 @@ Le world jazz est synonyme d'une musique qui s'exprime au moyen des standards et
 Le jazz issu des pays d'Amérique latine et des Caraïbes, bien qu'ayant déjà sa dénomination Latin jazz, pourrait également être qualifié de world jazz, à la seule différence que ses thèmes (de Bossa Nova par exemple) sont devenus des standards de jazz : The Girl from Ipanema, Spain, etc.
 
 <figure class="app-frame fusions text-align-center" data-title="Hope - Don Cherry">
-  <video src="assets/images/Hope.mp4" controls>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NJEmM3SEwwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video src="assets/images/Hope.mp4" controls> -->
 </figure>
 
 ## Eléments d'analyse
@@ -16,13 +17,15 @@ Don Cherry a étudié le bouddhisme tibétain,  et son lien à la spiritualité 
 # Ecoutes complémentaires
 <div class="encarts">
 <figure class="app-frame encart text-align-center fusions" data-title="A Handful Of Beauty - Shakti">
-    <video controls src="assets/images/Shakti With John McLaughlin _– A Handful Of Beauty (1977 - Album).mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/U5LId8WbJOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <video controls src="assets/images/Shakti With John McLaughlin _– A Handful Of Beauty (1977 - Album).mp4"></video> -->
   <p>
-  En 1975, John délaisse la guitare électrique pour se concentrer sur l'étude de la musique indienne et fonde Shakti. Le premier album du groupe, "Shakti With John McLaughlin", présente un concert de 1975 où McLaughlin rivalise de virtuosité avec L. Shankar, violoniste du groupe. Le disque montre l'impressionnant travail d'appropriation de la musique indienne effectué par McLaughlin. 
+  En 1975, John délaisse la guitare électrique pour se concentrer sur l'étude de la musique indienne et fonde Shakti. Le premier album du groupe, "Shakti With John McLaughlin", présente un concert de 1975 où McLaughlin rivalise de virtuosité avec L. Shankar, violoniste du groupe. Le disque montre l'impressionnant travail d'appropriation de la musique indienne effectué par McLaughlin.
   </p>
 </figure>
 <figure class="app-frame encart text-align-center fusions" data-title="Ramy - Jan Garbarek, Anouar Brahem, Shaukat Hussain">
-  <video controls src="assets/images/Jan.Garbarek-Anouar.Brahem-Shaukat.Hussain--Ramy.mp4"></video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_g_zCxUBbbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video controls src="assets/images/Jan.Garbarek-Anouar.Brahem-Shaukat.Hussain--Ramy.mp4"></video> -->
   <p>
  Le saxophoniste de jazz norvégien Jan Garbarek a multiplié les expériences musicales dans de très nombreuses directions y compris le World Jazz. En 1992, il sort l'album "Madar".  C'est une collaboration entre Garbarek, le percussionniste pakistanais Ustad Shaukat Hussain Khan et l'oudiste tunisien Anouar Brahem. "Ramy" est le 5è morceau de ce magnifique album.
   </p>

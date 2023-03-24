@@ -5,7 +5,8 @@ Les hard-boppers ont lancé des recherches qui trouvent leur aboutissement dans 
 La scène musicale de Chicago est un exemple important d'entreprise collective de création miusicale. En 1965, les musiciens de Chicago créent l'Association for the Advancement of Creative Musicians (AACM = Association) sorte de coopérative musicale de création mais aussi de soutien, de promotion, d'enseignement et d'échange entre les musiciens. Deux ans après nait l'Art Ensemble of Chicago qui restera à la pointe du Free Jazz et de ce que l'on appelera par la suite les musiques improvisées.
 
 <figure class="app-frame styles text-align-center" data-title="Odwalla - Art Ensemble of Chicago">
-  <video src="assets/images/Art-Ensemble-of-Chicago-Odwalla-The-Theme-vidiget-dot-com-1388059.mp4" controls>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/q3ac_vGlBBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video src="assets/images/Art-Ensemble-of-Chicago-Odwalla-The-Theme-vidiget-dot-com-1388059.mp4" controls> -->
 </figure>
 
 ## Eléments d'analyse
@@ -25,14 +26,16 @@ Il existe différentes versions toutes très différentes de ce morceau embléma
 
 <div class="encarts">
 <figure class="app-frame encart text-align-center styles" data-title="Album Free Jazz  a collective improvisation - Ornette Coleman Double Quartet">
-    <video controls src="assets/images/Ornette-Coleman-Free-Jazz-1961-Full-Album-vidiget-dot-com-1388083.mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iPDzlSda8P8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <video controls src="assets/images/Ornette-Coleman-Free-Jazz-1961-Full-Album-vidiget-dot-com-1388083.mp4"></video> -->
   <p>
 Cette fois-ci c'est tout l'album d'Ornette Coleman qui est proposé à l'écoute car c'est l'album qui va donner son nom au style. L'écoute n'est pas facile du fait de l'improvisation collective des musiciens. Enregistré avec un double quartet on peut écouter au moins 3 fois l'album. Chaque quartet étant localisé d'un côté de la stéréophonie, on peut écouter d'abord ce qui est joué à droite puis à gauche et enfin la superposition des 2.
   </p>
 </figure>
 
 <figure class="app-frame encart text-align-center styles" data-title="Album Ascension - John Coltrane">
-    <video controls src="assets/images/Ascension-Edition-I-Pt-1-vidiget-dot-com-1388091.mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Gio8aXWUvIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <video controls src="assets/images/Ascension-Edition-I-Pt-1-vidiget-dot-com-1388091.mp4"></video> -->
   <p>
 A nouveau un album complet de proposer. Celui-ci comporte 2 morceaux "Edition II" et "Edition I" John Coltrane réunis une équipe de musiciens pour une improvisation collective. Mais des solistes émergent du collectif pour prendre la parole à tour de rôle. Ceci est indiqué dans la jacquette de l'albvum.
   </p>

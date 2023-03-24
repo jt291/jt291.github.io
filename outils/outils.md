@@ -18,7 +18,6 @@ Le développement du site repose essentiellement sur :
 ![logo html](../assets/images/logos/html.svg)
 ![logo css](../assets/images/logos/css.svg)
 ![logo markdown](../assets/images/logos/markdown.svg)
-![logo marked](../assets/images/logos/marked.svg)
 ![logo vscode](../assets/images/logos/vscode.svg)
 
 - <a href='https://developer.mozilla.org/docs/Web/JavaScript' target=_blank><code>javascript</code></a>

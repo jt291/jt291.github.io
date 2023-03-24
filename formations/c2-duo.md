@@ -4,7 +4,8 @@
 Réunir 2 musiciens pour jouer ensemble lors d'un concert où sur un album est souvent l'aboutissement d'années de collaboration de 2 artistes dans des formations plus importantes. Beaucoup de formules différentes ont été expérimentées. Elles sont toutes ou presque le reflet d'une complicité musicale importante de 2 personnes qui s'apprécient, se respectent, sont à l'écoute l'une de l'autre et ont plaisir à jouer ensemble. Avoir le bonheur d'entendre tout cela est souvent une joie communicative.
 
 <figure class="app-frame formations text-align-center" data-title="Libertango - Richard Galliano, Michel Portal">
-  <video src="assets/images/Galliano-Portal--Libertango-360p.mp4" controls>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/h6XVA5_-tfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video src="assets/images/Galliano-Portal--Libertango-360p.mp4" controls> -->
 </figure>
 
 ## Eléments d'analyse
@@ -21,13 +22,15 @@ Après une introduction lente, la rythmique se lance peu à peu. Le thème n'est
 # Ecoutes complémentaires
 <div class="encarts">
 <figure class="app-frame encart text-align-center formations" data-title="Paris 1989 - Dizzy Gillespie, Max Roach">
-    <video controls src="assets/images/Full-album--M.Roach-D.Gillespie.mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HXI93lqng_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <video controls src="assets/images/Full-album--M.Roach-D.Gillespie.mp4"></video> -->
   <p>
   Ces 2 musiciens essentiels de style Be Bop ont réussi le périlleux exercice du duo trompette-batterie. L'auditeur n'a plu qu'à imaginer le reste des instruments (contrebasse, piano) par les suggestions données par les musiciens. Un tour de force exceptionnel. Le disque entier est un plaisir à consommer sans modération.
   </p>
 </figure>
 <figure class="app-frame encart text-align-center formations" data-title="Crystal Silence - Gary Burton, Chick Corea">
-  <video controls src="assets/images/crystal-silence--C-Coreao--G-Burton.mp4"></video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jxtbI1RbsFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video controls src="assets/images/crystal-silence--C-Coreao--G-Burton.mp4"></video> -->
   <p>
    Le pianiste Chick Corea et le vibraphoniste Gary Burton ont joué en duo environ 40 ans. Leur complicité musicale a donné des concerts exceptionnels et des albums tout aussi palisants à écouter. Un exemple de morceau avec l'une de leurs versions de "Crystal Silence".
   </p>

@@ -199,6 +199,7 @@ nav.app-nav button.btn-theme {
 
 .app-frame iframe {
   width: 100%;
+  height: 90vh;
 }
 .markdown-section iframe {
   margin: 0;

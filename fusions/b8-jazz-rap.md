@@ -6,7 +6,8 @@ D'une autre part, des musiciens de jazz se sont inspirés de la scène Rap pour 
 C'est Miles Davis qui une fois de plus lance le mouvement en sortant son album "Doo-Bop" en 1992. Ce dernier disque est une fois encore à l'avant-garde d'un nouveau genre : le nu jazz. La fusion jazz/hip-hop, notamment, inspirera ensuite les musiciens Erik Truffaz ou US3. Du bebop des années 40, (qui est une forme de jazz urbain) au funk urbain de Doo-Bop, pour Miles Davis la boucle est définitivement bouclée.
 
 <figure class="app-frame fusions text-align-center" data-title="Bukowski(Chapter-1) - Erik Truffaz">
-  <video src="assets/images/Bukowski(Chapter-1).mp4" controls>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/foVkzSqRr_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video src="assets/images/Bukowski(Chapter-1).mp4" controls> -->
 </figure>
 
 ## Eléments d'analyse
@@ -15,13 +16,15 @@ Ce morceau est le 1er titre d'un album du trompettiste Erik Truffaz intitulé "T
 # Ecoutes complémentaires
 <div class="encarts">
 <figure class="app-frame encart text-align-center fusions" data-title="Rockit - Herbie Hancock">
-    <video controls src="assets/images/Herbie Hancock - Rockit (Official Video).mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GHhD4PD75zY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <video controls src="assets/images/Herbie Hancock - Rockit (Official Video).mp4"></video> -->
   <p>
-   Lors de l'émergence du mouvement Hip Hop sur la scène internationale au début des années 1980, le pianiste de Jazz Herbie Hancock sort le Morceau "Rockit" issu de l'album "Future Shock" sorti en 1983.  Herbie Hancock y joue du synthétiseur, et le DJ Grand Mixer DXT des scratchs. C'est un mélange de funk, de hip-hop et d'electro. Rockit est accompagné d'un vidéoclip très réussi qui remporte plusieurs prix aux MTV Video Music Awards en 1984. La chanson reçoit le Grammy Award de la «meilleure prestation R'N'B instrumentale». 
+   Lors de l'émergence du mouvement Hip Hop sur la scène internationale au début des années 1980, le pianiste de Jazz Herbie Hancock sort le Morceau "Rockit" issu de l'album "Future Shock" sorti en 1983.  Herbie Hancock y joue du synthétiseur, et le DJ Grand Mixer DXT des scratchs. C'est un mélange de funk, de hip-hop et d'electro. Rockit est accompagné d'un vidéoclip très réussi qui remporte plusieurs prix aux MTV Video Music Awards en 1984. La chanson reçoit le Grammy Award de la «meilleure prestation R'N'B instrumentale».
   </p>
 </figure>
 <figure class="app-frame encart text-align-center fusions" data-title="Burn One Down - Ursus Minor">
-  <video controls src="assets/images/Burn One Down (feat. Boots Riley, M1, Umi, D' de kabal, Spike).mp4"></video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/k2EV1gATLlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video controls src="assets/images/Burn One Down (feat. Boots Riley, M1, Umi, D' de kabal, Spike).mp4"></video> -->
   <p>
     Ursus Minor est un groupe créé par Tony Hymas qui a commencé à jouer et enregistrer en janvier 2003. La configuration du groupe a beaucoup évolué depuis sa création. Il n'a pas de réelles frontières esthétiques mais invite souvent des rappeurs comme Boots Riley, Brother Ali, D' de Kabal, Desdamona ou deM atlaS.
   </p>

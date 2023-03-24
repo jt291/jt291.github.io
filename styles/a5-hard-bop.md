@@ -6,7 +6,8 @@ L'un des grands représentant de ce style est la batteur Art Blakey qui jouera p
 
 
 <figure class="app-frame styles text-align-center" data-title="Moanin' - Art Blakey and the Jazz Messengers">
-  <video src="assets/images/Moanin-Remastered-vidiget-dot-com-1387897.mp4" controls>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fsJ3JjpZyoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video src="assets/images/Moanin-Remastered-vidiget-dot-com-1387897.mp4" controls> -->
 </figure>
 
 ## Eléments d'analyse
@@ -20,14 +21,16 @@ Le thème est réexposé entièrement comme lors de l'exposition. Puis pour fini
 ## Ecoutes complémentaires
 <div class="encarts">
 <figure class="app-frame encart text-align-center styles" data-title="St-Thomas - Sonny Rollins">
-    <video controls src="assets/images/SONNY-ROLLINS-St-Thomas-vidiget-dot-com-1387905.mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/v4DTR0I7xhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <video controls src="assets/images/SONNY-ROLLINS-St-Thomas-vidiget-dot-com-1387905.mp4"></video> -->
   <p>
 Sonny rollins (saxophone ténor) est également une figure majeure du jazz à la fin des années 50. St-Thomas est l'un de ses morceaux les plus connus. Il est aussi réputé pour avoir sorti quelques albums importants tels que "The Bridge" ou son "Freedom Now Suite"
   </p>
 </figure>
 
 <figure class="app-frame encart text-align-center styles" data-title="Haïtian Fight Song - Charles Mingus">
-    <video controls src="assets/images/Charles-Mingus-Quintet-Haitian-Fight-Song-vidiget-dot-com-1387950.mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/L7CoJEyiSfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <video controls src="assets/images/Charles-Mingus-Quintet-Haitian-Fight-Song-vidiget-dot-com-1387950.mp4"></video> -->
   <p>
 Charles Mingus fut un contrebassiste autant impliqué musicalement que politiquement. Sa musique très expressive présente de nombreux éléments superposés. Le titre de ce morceau fait référence au combat des haïtiens qui ont crée la 1ère république noire indépendante au début du XIXè siècle. Les musiciens de jazz se sentent concernés par les luttes internationales et prennent conscience de la place qu'occupent leurs propres combats dans les différentes luttes à travers le monde.
   </p>

@@ -6,7 +6,8 @@ L'influence du musicien d'origine arménienne Nersès Nalbandian (1915-1977) fut
 Mulatu Astatke est probablement la figure la plus emblématique et connue de l'éthio-jazz, avec les saxophonistes Getatchew Mekurya et Tesfa-Maryam Kidane.
 
 <figure class="app-frame fusions text-align-center" data-title="Tezeta (Nostalgia) - Mulatu Astatke">
-  <video src="assets/images/Tezeta-(Nostalgia).mp4" controls>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Wy-v-FgiUD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video src="assets/images/Tezeta-(Nostalgia).mp4" controls> -->
 </figure>
 
 ## Eléments d'analyse
@@ -15,15 +16,17 @@ Ce morceau construit sur une rythmique à 3 temps, comme une valse qui tourne sa
 # Ecoutes complémentaires
 <div class="encarts">
 <figure class="app-frame encart text-align-center fusions" data-title="Yekermo Sew - Mulata Astatke">
-    <video controls src="assets/images/Yekermo-Sew-(A-Man-of-Experience-and-Wisdom).mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XtwLr7FtBlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- <video controls src="assets/images/Yekermo-Sew-(A-Man-of-Experience-and-Wisdom).mp4"></video> -->
   <p>
  Autre exemple musical de Mulatu Astatke avec des sonorités moyen-orientales plus marquées.
   </p>
 </figure>
 <figure class="app-frame encart text-align-center fusions" data-title="Jawa-Jawa - Akalé Wubé">
-  <video controls src="assets/images/Jawa-Jawa.mp4"></video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/R1fYa2kpXu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <!-- <video controls src="assets/images/Jawa-Jawa.mp4"></video> -->
   <p>
-    Le renouveau de l'Ethio Jazz auprès d'un large public occidental durant les années 1990 à crée des vocations. Formé en 2009, le groupe français Akalé Wubé joue une musique inspirée du funk-jazz éthiopien des années 1960 et des musiques traditionnelles actuelles d’Éthiopie. 
+    Le renouveau de l'Ethio Jazz auprès d'un large public occidental durant les années 1990 à crée des vocations. Formé en 2009, le groupe français Akalé Wubé joue une musique inspirée du funk-jazz éthiopien des années 1960 et des musiques traditionnelles actuelles d’Éthiopie.
   </p>
 </figure>
 </div>

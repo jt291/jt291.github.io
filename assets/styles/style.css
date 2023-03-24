@@ -196,6 +196,10 @@ nav.app-nav button.btn-theme {
 .app-frame > video {
   width: 100%;
 }
+.app-frame iframe {
+  width: 100%;
+  border: none;
+}
 
 .partitions iframe {
   width: 100%;

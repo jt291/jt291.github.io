@@ -21,7 +21,7 @@
 </figure>
 <figure class="app-frame encart text-align-center formations" data-title="Echoes of France - Quintet Hot Club de France">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QyjJ3ThpRkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <video controls src="assets/images/Hot.Club.of.France-Echoes.of.France_v720P.mp4"></video>
+  <!--<video controls src="assets/images/Hot.Club.of.France-Echoes.of.France_v720P.mp4"></video>-->
   <p>
   Le Hot Club de France est un Quintet à géométrie un peu spéciale dans le sens où il ne comporte que des instruments à cordes et pas de batterie. Il a enregistré une version de la Marseillaise qui a fait date.
   </p>

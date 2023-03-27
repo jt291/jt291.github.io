@@ -1,7 +1,7 @@
 # Quartet
 
 ## Présentation générale
-La formule du Quartet est une formule très usitée en Jazz. En général on ajoute à l'ossature du trio piano, contrebasse, batterie un 4è musicen. Cela peut souvent être un soufflant (trompette ou saxophone). Assez souvent le 4è musicien est un peu le leader du groupe, dans le sens ouil assume souvent le fait de présenter le thème lors de l'exposition ou pendant la réexposition de celui-ci. C'est souvent celui qui prend le 1er solo. Mais comme pour chaque formule il existe de très nombreuses combinaisons différentes. Les jazzmen ont souvent plusieurs groupes avec lequels ils se produisent en leader ou en sideman (accompagnateur). Les formules évoluent souvent en fonction des disponibilités de chacuns, des opportunités et de la complicité qu'ils entretiennent ensemble.
+La formule du Quartet est une formule très usitée en Jazz. En général on ajoute à l'ossature du trio piano, contrebasse, batterie un 4è musicen. Cela peut souvent être un soufflant (trompette ou saxophone). Assez souvent le 4è musicien est un peu le leader du groupe, dans le sens où il assume souvent le fait de présenter le thème lors de l'exposition ou pendant la réexposition de celui-ci. C'est souvent celui qui prend le 1er solo. Mais comme pour chaque formule il existe de très nombreuses combinaisons différentes. Les jazzmen ont souvent plusieurs groupes avec lequels ils se produisent en leader ou en sideman (accompagnateur). Les formules évoluent souvent en fonction des disponibilités de chacuns, des opportunités et de la complicité qu'ils entretiennent ensemble.
 
 
 <figure class="app-frame formations text-align-center" data-title="My Favorite Things - John Coltrane Quartet">

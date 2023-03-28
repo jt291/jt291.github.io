@@ -9,7 +9,9 @@ Sans pour autant trouver sa place dans la rubrique des fusions, la musique d'ori
 </figure>
 
 ## Eléments d'analyse
-Bien que d'origines italiennes, le pianiste Chick Corea a écrit plusieurs morceaux aux influences hispaniques assumées y compris dans les titre. Les plus réputées ont pour titre "Spain" et "La Fiesta".
+Bien que d'origines italiennes, le pianiste Chick Corea a écrit plusieurs morceaux aux influences hispaniques assumées y compris dans les titres. Les plus réputés sont "Spain" et "La Fiesta"... . Il en existe de nombreuses versions ou reprises.
+
+Pour cette version de la fiesta Chick Corea (au clavier) a invité le saxophoniste ténor Stan Getz. Ce morceau est à 3 temps sur un tempo assez rapide. La rythmique très soutenue et fournie entre en introduction.. Le thème est organisé en une successions de mélodies répétées 2 fois chacunes et accompagnées d'une suite répétée d'accords ascendants puis descendants (Mi Majeur, Fa Majeur, Sol Majeur, Fa Majeur, Mi Majeur). La partie B de ce thème sort de ce schéma là (la rythmique se fait plus légère à ce moment). La 1ère mélodie de la partie A est rejouée plus aigu par le saxophone qui prend le 1er solo.
 
 
 

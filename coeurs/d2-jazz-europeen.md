@@ -23,8 +23,6 @@ La 3è partie change d'atmosphère. Une rythmique plus importante accompagne le 
 Pour l'avoir découvert peu de temps après sa sortie (1987), c'est le morceau qui m'a fait basculer dans le Jazz Contemporain. Ce fut une véritable révélation musicale.
 
 
-
-
 # Ecoutes complémentaires
 <div class="encarts">
 <figure class="app-frame encart text-align-center coeurs" data-title="Annobon - Romano, Sclavis, Texier">

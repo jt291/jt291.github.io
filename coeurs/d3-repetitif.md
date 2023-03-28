@@ -28,7 +28,7 @@ La répétition est basée là essentiellement à la main gauche du piano quand 
 <iframe width="699" height="393" src="https://www.youtube.com/embed/VC79tfZL1n8" title="Rabih Abou-Khalil - Little Camels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  <!-- <video controls src="assets/images/Rabih.Abou.Khalil-Little.Camels_v720P.mp4"></video>-->
   <p>
-
+L'ensemble formé par Rabih Abou Khalil (oud), Joachim Kühn (piano, saxophone) et Jarrod Cagwin (percussions) aurait pu être présent à la page trio mais aussi à une page de fusion du Jazz et de la musique de Moyen-Orient. C'est l'occasion d'y faire référence dans les répétitons présentent dans ce morceau. Celles-ci sont en constante évolution créeant un tapis sonore toujours en mouvement. C'est tout le charme des cette pièce tirée de l'album "Journey to the Centre of an Egg" sorti en 2004. 
   </p>
 </figure>
 </div>

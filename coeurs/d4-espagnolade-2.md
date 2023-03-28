@@ -9,7 +9,7 @@ Les références à la musique d'origine espagnole sont si fréquentes en jazz q
 </figure>
 
 ## Eléments d'analyse
-Il est difficile d'apporter des éléments d'analyse sur un morceau qui entraîne l'auditeur dans une transe menant à l'irrationnel. Et pourtant, en cherchant bien on peut trouver des motifs pouvant expliquer ce phénomène.
+Il est difficile d'apporter des éléments d'analyse sur un morceau qui entraîne l'auditeur dans une transe tout à fait irrationnelle. Et pourtant, en cherchant bien on peut trouver des motifs pouvant expliquer ce phénomène.
 Il s'agit du 1er morceau d'un album éponyme publié  en 1961.
 
 L'instrumentation est très fournie et comporte notamment la présence de 2 contrebasses qui font un sonptueux solo à l'archet. La rythmique est donc bien soutenue avec une suite d'accords scandés au piano par un McCoy Tiner de très grande classe et un Elvin Jones à la batterie tout aussi exceptionnel. La stabilité générale des répétitions permet à chaque soliste de prendre le temps de développer son improvisation. Le thème sert de  ressource et est cité 

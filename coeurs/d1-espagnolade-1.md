@@ -3,7 +3,7 @@
 ## Présentation générale
 Sans pour autant trouver sa place dans la rubrique des fusions, la musique d'origine espagnole a beaucoup inspirée de compositeurs et musiciens de Jazz. Les gammes (ou modes) utilisés donnent une couleur particulière bien  reconnaissable. 
 
-<figure class="app-frame formations text-align-center" data-title="La fiesta - Chick Corea invité Satn Getz">
+<figure class="app-frame coeurs text-align-center" data-title="La fiesta - Chick Corea invité Satn Getz">
 <iframe width="524" height="393" src="https://www.youtube.com/embed/cFuPGlCVhL0" title="Stan Getz -  La Fiesta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  <!-- <video <src="assets/images/Stan.Getz-La.Fiesta_360p.mp4" controls>-->
 </figure>
@@ -18,14 +18,14 @@ Il joue ensuite la mélodie de la partie B et 2 fois la 1ère mélodie de la par
 
 # Ecoutes complémentaires
 <div class="encarts">
-<figure class="app-frame encart text-align-center formations" data-title="Concierto de Aranjuez - Miles Davis">
+<figure class="app-frame encart text-align-center coeurs" data-title="Concierto de Aranjuez - Miles Davis">
 <iframe width="699" height="393" src="https://www.youtube.com/embed/H0_VNSia-J4" title="Miles Davis - Concierto De Aranjuez : Adagio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <!-- <video controls src="assets/images/Miles.Davis-Concierto.De.Aranjuez-Adagio_v720P.mp4"></video>-->
   <p>
    Autre référence directe à la musique espagnole, la reprise en 1960 du "Concerto d'Aranjuez" pour Guitare et orchestre du compositeur J. Rodrigo par Miles Davis sur un album intitulé "Sketches of Spain" sorti 1960. Réorchestré pour trompette et grand ensemble, les arrangements et quelques compositions sont de Gil Evans. Le succès a été très important et non démenti depuis. A tel point que ce disque a été classé en 2003 le 356e des 500 plus grands albums de tous les temps par le magazine Rolling Stone. 
   </p>
 </figure>
-<figure class="app-frame encart text-align-center formations" data-title="Spain - Chick Corea">
+<figure class="app-frame encart text-align-center coeurs" data-title="Spain - Chick Corea">
 <iframe width="699" height="393" src="https://www.youtube.com/embed/sEhQTjgoTdU" title="Spain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  <!-- <video controls src="assets/images/Spain-Chick.Corea_360p.mp4"></video>-->
   <p>

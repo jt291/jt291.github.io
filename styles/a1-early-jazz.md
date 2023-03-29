@@ -29,7 +29,7 @@ Bien que le swing soit encore assez rustique ce morceau va connaitre un grand su
     <iframe width="560" height="315" src="https://www.youtube.com/embed/--xy6nxea2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <!-- <video controls src="assets/images/Louis-Armstrong-Cornet-Chop-Suey-vidiget-dot-com-1386519.mp4"></video> -->
   <p>
-    Après avoir fait ses classes dans l'orchestre de King Oliver jusqu'à la suivre à Chicago, Louis Arstrong va rapidemment s'affirmer comme l'un des grands représentants du jazz à ses débuts. C'est lui qui va développer la place du soliste à travers ses improvisations légendaires. C'est l'ambassadeur du jazz par excellence qui connaitra une carrière planétaire.
+    Après avoir fait ses classes dans l'orchestre de King Oliver jusqu'à la suivre à Chicago, Louis Armstrong va rapidemment s'affirmer comme l'un des grands représentants du jazz à ses débuts. C'est lui qui va développer la place du soliste à travers ses improvisations légendaires. C'est l'ambassadeur du jazz par excellence qui connaitra une carrière planétaire.
   </p>
 </figure>
 <figure class="app-frame encart text-align-center styles" data-title="Petite fleur - Sydney Bechet">

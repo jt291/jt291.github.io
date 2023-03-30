@@ -4,33 +4,33 @@ Il est des morceaux de musique que l'on aime fortement, longtemps malgré un nom
 
 ## Espagnolade #1
 <div class="encart-paragraph">
-<a href="/#/coeurs/d1-espagnolade-1.md#Présentation-générale">
+<a href="/#/coeurs/d1-espagnolade-1.md">
 <figure class="app-frame coeurs encart styles" data-title="Espagnolade #1"><img src="/assets/images/espagnolade1.jpg"></figure></a>
 <p>C'est le coup de coeur d'un morceau qui fait une référence directe à la musique espagnole. Les sonorités hispanisantes sont assumées par des jazzmen qui, pour certains, y font souvent référence.</p></div>
 
 ## Jazz européen
 <div class="encart-paragraph">
 <p>Dès l'arrivée du Jazz en Europe, des musiciens se sont emparés de cette musique. Mis à part Django Reinhardt et la création du Jazz Tzigane dans les années 1930, les jazzmen européens ont cherché à copier le plus fidèlement possible le modèle américain. A l'apparition du Free Jazz, la scène européenne de jazz s'affranchit du modèle américain au profit de ses propres recherches musicales jusqu'à établir une voire des écoles européennes de jazz.</p>
-<a href="/#/coeurs/d2-jazz-europeen.md#jazz-européen">
+<a href="/#/coeurs/d2-jazz-europeen.md">
 <figure class="app-frame coeurs encart styles" data-title="The History of European Jazz de Francesco MARTINELLI"><img src="/assets/images/Jazz-europeen.jpg"></figure></a>
 </div>
 
 ## Répétitif
 <div class="encart-paragraph">
-<a href="/#/coeurs/d3-repetitif.md#Présentation">
+<a href="/#/coeurs/d3-repetitif.md">
 <figure class="app-frame coeurs encart styles" data-title="I will not repeat myself again"><img src="/assets/images/I-will-not.jpg"></figure></a>
 <p>Dans presque tous les styles de musique, l'une des recettes musicales pour créer et développer un morc eau est de s'appuyer sur des motifs répétitifs. La répétition est d'autant plus utilisée actuellement que des outils (ordinateurs, sampleurs, pédales de boucles...) permettant cela se sont développés. Les jazzmen ont aussi utilisé ce principe.</p></div>
 
 ## Espagnolade #2
 <div class="encart-paragraph">
 <p>Les références à la musique d'origine espagnole sont si nombreuses et si agréables à écouter qu'un 2è tour d'espagnolade s'imposait.</p>
-<a href="/#/coeurs/d4-espagnolade-2.md#Présentation">
+<a href="/#/coeurs/d4-espagnolade-2.md">
 <figure class="app-frame coeurs encart styles" data-title="Espagnolade #2"><img src="/assets/images/Ole.jpg"></figure></a>
 </div>
 
 ## Europe de l'Est
 <div class="encart-paragraph">
-<a href="/#/coeurs/d5-europe-est.md#présentation-générale">
+<a href="/#/coeurs/d5-europe-est.md">
 <figure class="app-frame coeurs encart styles" data-title="Les pépites d'Europe de l'Est"><img src="/assets/images/les-pepites.jpg"></figure></a>
 <p>Un jazz inspiré des sonorités des musiques traditionnelles d'Europe de l'Est s'est aussi développé. Le tout fonctionne en un joyeux mélange vivifiant.</p></div>
 

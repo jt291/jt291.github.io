@@ -29,7 +29,7 @@ Il existe différentes versions toutes très différentes de ce morceau embléma
     <iframe width="560" height="315" src="https://www.youtube.com/embed/iPDzlSda8P8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <!-- <video controls src="assets/images/Ornette-Coleman-Free-Jazz-1961-Full-Album-vidiget-dot-com-1388083.mp4"></video> -->
   <p>
-Cette fois-ci c'est tout l'album d'Ornette Coleman qui est proposé à l'écoute car c'est l'album qui va donner son nom au style. L'écoute n'est pas facile du fait de l'improvisation collective des musiciens. Parce qu'il a été enregistré avec un double <a href="/#/formations/c4-quartet.md#Quartet">quartet</a>, on peut écouter au moins 3 fois l'album. Chaque quartet étant localisé d'un côté de la stéréophonie, on peut écouter d'abord ce qui est joué à droite puis à gauche et enfin la superposition des 2.
+Cette fois-ci c'est tout l'album d'Ornette Coleman qui est proposé à l'écoute car c'est l'album qui va donner son nom au style. L'écoute n'est pas facile du fait de l'improvisation collective des musiciens. Parce qu'il a été enregistré avec un double <a href="/#/formations/c4-quartet.md">quartet</a>, on peut écouter au moins 3 fois l'album. Chaque quartet étant localisé d'un côté de la stéréophonie, on peut écouter d'abord ce qui est joué à droite puis à gauche et enfin la superposition des 2.
   </p>
 </figure>
 

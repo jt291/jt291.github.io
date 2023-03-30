@@ -36,6 +36,6 @@ Il est des morceaux de musique que l'on aime fortement, longtemps malgré un nom
 
 ## Vocal
 <div class="encart-paragraph"><p>Il était difficile de faire un site sur le jazz sans consacrer au moins une page à l'importance de la voix pour ce style de musique.</p>
-<a href="/#/coeurs/d6-vocal.md#présentation-générale">
+<a href="/#/coeurs/d6-vocal.md">
 <figure class="app-frame coeurs encart styles" data-title="Jazz Vocal"><img src="/assets/images/Vocal.jpg"></figure></a>
 </div>

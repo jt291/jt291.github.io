@@ -24,7 +24,7 @@ La reprise du thème peu avant la 16è minute semble apaiser les choses vers un 
 <iframe width="699" height="393" src="https://www.youtube.com/embed/aGsVqF-URXc" title="Charles Mingus - Ysabel&#39;s Table Dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <!-- <video controls src="assets/images/Ysabels.Table.Dance-C.Mingus_v720P.mp4"></video>-->
   <p>
-   La référence à la musique espagnole est clairement présentée dans la 1ère partie de ce morceau issu de l'album "Tijuana Moods" enregistré en 1957 et paru en 1962. Tijuana est une ville méxicaine située à la frontière sud de la Californie. La référence à la musique espagnole se fait donc par l'intermédiaire du Méxique. 
+   La référence à la musique espagnole est clairement présentée dans la 1ère partie de ce morceau de <a href="/#/styles/a5-hard-bop.md">Hard Bop</a>, issu de l'album "Tijuana Moods" enregistré en 1957 et paru en 1962. Tijuana est une ville méxicaine située à la frontière sud de la Californie. La référence à la musique espagnole se fait donc par l'intermédiaire du Méxique. 
   </p>
 </figure>
 <figure class="app-frame encart text-align-center coeurs" data-title="Spain - Chick Corea, Bobby McFerrin">

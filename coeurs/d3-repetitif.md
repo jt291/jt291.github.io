@@ -20,7 +20,7 @@ Le morceau choisi est basé sur une boucle de basse joué au départ à la main 
 <iframe width="699" height="393" src="https://www.youtube.com/embed/i6xmVwysacA" title="When God Created the Coffebreak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <!-- <video controls src="assets/images/When.God.Created.the.Coffebreak-EST_v720P.mp4"></video>-->
   <p>
-Le trio EST (Esbjörn Svensson Trio) a été un des trio très intéressant d'Europe du Nord à la fin des années 1990 jusqu'aux années 2000. Il aurait pu prendre une place à la page Trio. L'intégration des machines était pertinente. Malheureusement le décès prématuré d'Esbjörn Svensson a mis fin à une formation très prometteuse.
+Le trio EST (Esbjörn Svensson Trio) a été un des trio très intéressant d'Europe du Nord à la fin des années 1990 jusqu'aux années 2000. Il aurait pu prendre une place à la page <a href="/#/formations/c3-trio.md#">Trio</a>. L'intégration des machines était pertinente. Malheureusement le décès prématuré d'Esbjörn Svensson a mis fin à une formation très prometteuse.
 La répétition est basée là essentiellement à la main gauche du piano quand le thème est joué. Elle en est néammoins très impressionnante.
   </p>
 </figure>

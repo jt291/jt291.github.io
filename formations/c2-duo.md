@@ -11,9 +11,9 @@ Réunir 2 musiciens pour jouer ensemble lors d'un concert où sur un album est s
 ## Eléments d'analyse
 Durant les années 1990 le duo Richard Galliano et Michel Portal s'est réunis pour des séries de concerts qui ont donné lieu à des albums.
 
-Michel Portal a été un acteur important du free Jazz en Europe. Il a aussi oeuvré au développement du Jazz Européen durant les années 1970 et 1980. Il est aussi réputé pour jouer le répertoire classique. Essentiellement clarinettiste, il joue également du saxophone soprano et de la clarinette basse. Sur ce titre il joue du bandonéon (accordéon d'Amérique du Sud).
+Michel Portal a été un acteur important du free Jazz en Europe. Il a aussi oeuvré au développement du [Jazz Européen](/coeurs/d2-jazz-europeen.md#Présentation-Générale) durant les années 1970 et 1980. Il est aussi réputé pour jouer le répertoire classique. Essentiellement clarinettiste, il joue également du saxophone soprano et de la clarinette basse. Sur ce titre il joue du bandonéon (accordéon d'Amérique du Sud).
 
-Richard Galliano est un maître de l'accordéon chromatique. Il est l'un des accordéonistes qui a redonné ses lettres de noblesses à cet instrument en le sortant du répertoire exclusivement musette au profit du jazz et des musiques d'Amérique Latine telles que le Tango Argentin... .
+Richard Galliano est un maître de l'accordéon chromatique. Il est l'un des accordéonistes qui a redonné ses lettres de noblesses à cet instrument en le sortant du répertoire exclusivement Musette au profit du Jazz et des musiques d'Amérique Latine telles que le Tango Argentin... .
 
 Le morceau est une composition d'Astor Piazzolla compositeur argentin et joueur de bandonéon. C'est un compositeur important pour le Tango.
 

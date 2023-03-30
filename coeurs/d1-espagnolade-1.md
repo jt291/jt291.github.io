@@ -1,7 +1,8 @@
 # Espagnolade #1
 
 ## Présentation générale
-Sans pour autant trouver sa place dans la rubrique des fusions, la musique d'origine espagnole a beaucoup inspirée de compositeurs et musiciens de Jazz. Les gammes (ou modes) utilisés donnent une couleur particulière bien  reconnaissable. 
+
+Sans pour autant trouver sa place dans la rubrique des [fusions](/fusions/b0-fusions.md#Présentation-Générale), la musique d'origine espagnole a beaucoup inspirée de compositeurs et musiciens de Jazz. Les gammes (ou modes) utilisées donnent une couleur particulière bien reconnaissable. 
 
 <figure class="app-frame coeurs text-align-center" data-title="La fiesta - Chick Corea invité Satn Getz">
 <iframe width="524" height="393" src="https://www.youtube.com/embed/cFuPGlCVhL0" title="Stan Getz -  La Fiesta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

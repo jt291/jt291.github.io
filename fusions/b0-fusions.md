@@ -3,7 +3,9 @@
 Le Jazz est une musique née du croisement de nombreuses musiques différentes. Tout au long de son histoire il s'est lui même croisé à d'autres styles musicaux formant de nouveaux styles hybrides. En voici quelques exemples :
 
 ## A partir de 1935 : Jazz Tzigane
-<span class="link-encart-paragraphe"></span>
+
+<a href="/#/fusions/b1-jazz-tsigane.md#présentation-générale">hello</a>
+
 [<div class="encart-paragraph"><figure class="app-frame fusions encart styles" data-title="Le Quintette Hot Club de France"><img src="assets/images/quintette-hot-club-de-france.jpg"></figure><p>Le jazz est arrivé en Europe par l'intermédiaire de la France en 1917, date de l'entrée des Etats-Unis dans le conflit de la 1ère Guerre Mondiale. Des musiciens européens s'éssayent à cette nouvelle musique si entrainante. D'autres s'approprient cette musique et la fusionnent à leurs propres cultures musicales. C'est le cas du guitariste Django Reinhardt qui crée le Jazz Tzigane ou Jazz Manouche avec Stéphane Grappelli au violon et les membres du Quintette Hot Club de France dès 1935.</p></div>](/fusions/b1-jazz-tsigane.md#présentation-générale)
 
 ## Dès 1945 : Jazz Afro-cubain

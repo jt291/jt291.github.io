@@ -35,12 +35,12 @@ Les formations de Jazz sont à géométrie variable et il existe de très nombre
 
 ## Big Band
 <div class="encart-paragraph"><p> Le Big Band est la formation phare du jazz des années 1930. Autour de la ryhmique de base (piano, contrebasse, batterie plus éventuellement une guitare) de nombreux soufflants sont ajoutés (en général 4 trompettes, 4 saxophones, 4 trombones et parfois des instruments additionnels) auxquels peut s'ajouter un chanteur ou une chanteuse.</p>
-<a href="/#/formations/c6-big-band.md#Big-Band">
+<a href="/#/formations/c6-big-band.md">
 <figure class="app-frame formations encart styles" data-title="Big Band de Duke Ellington"><img src="assets/images/Big-Band-Duke-Ellington3.jpg"></figure></a>
 </div>
 
 ## Autres
 <div class="encart-paragraph">
-<a href="/#/formations/c7-autres.md#Autres">
+<a href="/#/formations/c7-autres.md">
 <figure class="app-frame formations encart styles" data-title="Andy Emler Megaoctet"><img src="assets/images/Andy-Emler-Megaoctet4.jpg"></figure></a>
 <p> Il existe d'autres formules de formations avec de nombreux musicens sans que l'on puisse pourtant parler de Big Band.</p></div>

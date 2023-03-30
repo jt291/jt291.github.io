@@ -30,12 +30,12 @@ Il est des morceaux de musique que l'on aime fortement, longtemps malgré un nom
 
 ## Europe de l'Est
 <div class="encart-paragraph">
-<a href="/#/coeurs/d5-europe-est.md#Présentation">
+<a href="/#/coeurs/d5-europe-est.md#présentation-générale">
 <figure class="app-frame coeurs encart styles" data-title="Les pépites d'Europe de l'Est"><img src="/assets/images/les-pepites.jpg"></figure></a>
 <p>Un jazz inspiré des sonorités des musiques traditionnelles d'Europe de l'Est s'est aussi développé. Le tout fonctionne en un joyeux mélange vivifiant.</p></div>
 
 ## Vocal
 <div class="encart-paragraph"><p>Il était difficile de faire un site sur le jazz sans consacrer au moins une page à l'importance de la voix pour ce style de musique.</p>
-<a href="/#/coeurs/d6-vocal.md#Présentation">
-<figure class="app-frame coeurs encart styles" data-title="Jazz Vocal"><img src="/assets/images/Vocal.jpg"></figure>
+<a href="/#/coeurs/d6-vocal.md#présentation-générale">
+<figure class="app-frame coeurs encart styles" data-title="Jazz Vocal"><img src="/assets/images/Vocal.jpg"></figure></a>
 </div>

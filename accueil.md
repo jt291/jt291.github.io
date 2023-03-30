@@ -24,18 +24,22 @@ En multipliant les approches à travers un site qui se veut à la fois simple, f
 <div class="encarts">
 <a href="/#/styles/a0-styles.md#styles">
   <figure class="app-frame encart styles" data-title="Styles">
+  <img src="assets/images/styles.jpg">
     C'est une approche en fonction des différents styles qui se sont développés au cours de l'histoire de cette musique. Les entrées sont plutôt historiques.
   </figure></a>
   <a href="/#/fusions/b0-fusions.md#fusions">
   <figure class="app-frame encart fusions" data-title="Fusions">
+  <img src="assets/images/fusions2.jpg">
     Le jazz est issu d'un mélange de nombreuses musiques différentes et il s'est lui-même mélangé à d'autres musiques. Quelques fusions sont présentées ici.
   </figure></a>
 <a href="/#/formations/c0-formations.md#formations">
   <figure class="app-frame encart formations" data-title="Formations">
+  <img src="assets/images/formations.jpg">
     Il existe des formations types pour le jazz. Mais des expérimentations vers des formules atypiques ont aussi été faites.
   </figure></a>
 <a href="/#/coeurs/d0-coeurs.md#coups-de-coeur">
   <figure class="app-frame encart coeurs" data-title="Coups de coeur">
+  <img src="assets/images/coeurs.jpg">
     C'est la rubrique des écoutes qui ne trouvaient pas leur place dans les rubriques précédentes, ou cette place était déjà prise. Mais je voulais les partager absolument.
   </figure></a>
 </div>

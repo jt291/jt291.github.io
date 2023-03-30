@@ -21,14 +21,14 @@ Le morceau choisi est tiré de "L'Art du Trio volume 3" et est une reprise d'une
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Lp_8KcZX1tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <!--<video controls src="assets/images/The.Song.Is.You-Keith.Jarrett.Trio_v720P.mp4"></video>-->
   <p>
-  Le trio formé par Keith Jarrett (piano), Gary Peacock (contrebasse) et Jack deJohnette (batterie) représente un sommet dans l'art du trio. Ils ont joué ensemble pendant environ 40 ans et ont exploré dans de nombreuses directions musicales. Ils ont pu enregistrer de nombreuses versions de standards de Jazz mais aussi des albums d'improvisation totale. Ils leur arrivent aussi d'improviser à 3 en même temps sur un même standard.  
+  Le trio formé par <a href="/#/formations/c1-solo.md">Keith Jarrett</a> (piano), Gary Peacock (contrebasse) et Jack deJohnette (batterie) représente un sommet dans l'art du trio. Ils ont joué ensemble pendant environ 40 ans et ont exploré dans de nombreuses directions musicales. Ils ont pu enregistrer de nombreuses versions de standards de Jazz mais aussi des albums d'improvisation totale. Ils leur arrivent aussi d'improviser à 3 en même temps sur un même standard.  
   </p>
 </figure>
 <figure class="app-frame encart text-align-center formations" data-title="4 Ornette - Trio Humair, Kühn, Jenny-Clarke">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/a2NEvF5XmdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  <!-- <video controls src="assets/images/4-Ornette-Humair-Kuhn-Jenny.Clarke_v720P.mp4"></video>-->
   <p>
- Dans la veine européenne du Trio; celui formé par Daniel Humair (batterie), Joachim Kühn (piano) et Jean-François Jenny-Clarke (contrebasse) a été très important dans les abnnées 1980. Musiciens expérimentés ils pouvaient jouer des standards ou de la musique improvisée ou un mélange de tout ça. "4 Ornette" est un morceau en hommage à Ornette Colemann.
+ Dans la veine <a href="/#/coeurs/d2-jazz-europeen.md">européenne</a> du Trio; celui formé par Daniel Humair (batterie), Joachim Kühn (piano) et Jean-François Jenny-Clarke (contrebasse) a été très important dans les abnnées 1980. Musiciens expérimentés ils pouvaient jouer des standards ou de la musique improvisée ou un mélange de tout ça. "4 Ornette" est un morceau en hommage à Ornette Colemann.
   </p>
 </figure>
 </div>

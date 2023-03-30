@@ -19,7 +19,7 @@ Ce morceau est le 1er titre d'un album du trompettiste Erik Truffaz intitulé "T
     <iframe width="560" height="315" src="https://www.youtube.com/embed/GHhD4PD75zY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <!-- <video controls src="assets/images/Herbie Hancock - Rockit (Official Video).mp4"></video> -->
   <p>
-   Lors de l'émergence du mouvement Hip Hop sur la scène internationale au début des années 1980, le pianiste de Jazz Herbie Hancock sort le Morceau "Rockit" issu de l'album "Future Shock" sorti en 1983.  Herbie Hancock y joue du synthétiseur, et le DJ Grand Mixer DXT des scratchs. C'est un mélange de funk, de hip-hop et d'electro. Rockit est accompagné d'un vidéoclip très réussi qui remporte plusieurs prix aux MTV Video Music Awards en 1984. La chanson reçoit le Grammy Award de la «meilleure prestation R'N'B instrumentale».
+   Lors de l'émergence du mouvement Hip Hop sur la scène internationale au début des années 1980, le pianiste de Jazz Herbie Hancock sort le Morceau "Rockit" issu de l'album "Future Shock" sorti en 1983. Herbie Hancock y joue du synthétiseur, et le DJ Grand Mixer DXT des scratchs. C'est un mélange de funk, de hip-hop et d'electro. Rockit est accompagné d'un vidéoclip très réussi qui remporte plusieurs prix aux MTV Video Music Awards en 1984. La chanson reçoit le Grammy Award de la «meilleure prestation R'N'B instrumentale».
   </p>
 </figure>
 <figure class="app-frame encart text-align-center fusions" data-title="Burn One Down - Ursus Minor">

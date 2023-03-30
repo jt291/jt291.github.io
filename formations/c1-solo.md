@@ -20,14 +20,14 @@ Après des dizaines voir des centaines d'écoutes et donc de connaissance parfai
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i61gSKmeQ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <!-- <video controls src="assets/images/Thelonious-Monk-Solo-Monk-Full-Album.mp4"></video>-->
   <p>
-   Figure majeur du jazz Be Bop, Thelonius Monk a composé de nombreux standards de Jazz. Sa technique de piano si personnelle ne l'a pas empêché de jouer en concert solo.
+   Figure majeur du jazz <a href="/#/styles/a3-be-bop.md">Be Bop</a>, Thelonius Monk a composé de nombreux standards de Jazz. Sa technique de piano si personnelle ne l'a pas empêché de jouer en concert solo.
   </p>
 </figure>
 <figure class="app-frame encart text-align-center formations" data-title="Solobsession - Bojan Z">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SpL0NsDliHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  <!-- <video controls src="assets/images/Bojan.Zulfikarpasic-Solobsession_v720P.mp4"></video>-->
   <p>
-   Le pianiste Bojan Zulfikarpasic dit Bojan Z est originaire d'Europe de l'Est et installé en France depuis de nombreuses années. Il a produit un album solo "Solobsession" en 2000.
+   Le pianiste Bojan Zulfikarpasic dit Bojan Z est originaire d'<a href="/#/coeurs/d5-europe-est.md#ecoutes-complémentaires">Europe de l'Est</a> et installé en France depuis de nombreuses années. Il a produit un album solo "Solobsession" en 2000.
   </p>
 </figure>
 </div>

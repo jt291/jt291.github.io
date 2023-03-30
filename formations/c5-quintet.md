@@ -29,7 +29,7 @@ L'introduction du morceau débute par un solo de batterie. Les autres musiciens 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QyjJ3ThpRkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <!--<video controls src="assets/images/Hot.Club.of.France-Echoes.of.France_v720P.mp4"></video>-->
   <p>
-  Le Hot Club de France est un Quintet à géométrie un peu spéciale dans le sens où il ne comporte que des instruments à cordes et pas de batterie. Il a enregistré une version de la Marseillaise qui a fait date.
+  Le <a href="/#/fusions/b1-jazz-tsigane.md#">Hot Club de France</a> est un Quintet à géométrie un peu spéciale dans le sens où il ne comporte que des instruments à cordes et pas de batterie. Il a enregistré une version de la "Marseillaise" qui a fait date.
   </p>
 </figure>
 </div>

@@ -25,7 +25,7 @@ Le morceau titre est une interprétation modale du standard de Richard Rodgers e
    <iframe width="560" height="315" src="https://www.youtube.com/embed/vKNZqM0d-xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
    <!-- <video controls src="assets/images/Dave.Brubeck.Quartet-Blue.Rond.a.la.Turk_360p.mp4"></video>-->
   <p>
-   Grand représentant de style Cool, le Quartet de Dave Brubeck a produit quelques pépites musicales. Le morceau choisi est un hommage assumé à la pièce pour pian "La marche turque" de Mozart. La métrique générale est en 9/8 (avec des accents placés 2+2+2+3 et parfois 3+3+3) mais on retrouve parfois une rythmique swing à 4 temps. Une mise en parole de ce morceau a été faite en français par Claude Nougaro et est intitulée "A bout de souffle". 
+   Grand représentant de style <a href="/#/styles/a4-cool.md">Cool</a>, le Quartet de Dave Brubeck a produit quelques pépites musicales. Le morceau choisi est un hommage assumé à la pièce pour pian "La marche turque" de Mozart. La métrique générale est en 9/8 (avec des accents placés 2+2+2+3 et parfois 3+3+3) mais on retrouve parfois une rythmique swing à 4 temps. Une mise en parole de ce morceau a été faite en français par Claude Nougaro et est intitulée "A bout de souffle". 
   </p>
 </figure>
 <figure class="app-frame encart text-align-center formations" data-title="Simone Signoret - Azur Quartet">

@@ -24,7 +24,7 @@ Le thème est réexposé entièrement comme lors de l'exposition. Puis pour fini
     <iframe width="560" height="315" src="https://www.youtube.com/embed/v4DTR0I7xhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <!-- <video controls src="assets/images/SONNY-ROLLINS-St-Thomas-vidiget-dot-com-1387905.mp4"></video> -->
   <p>
-Sonny rollins (saxophone ténor) est également une figure majeure du jazz à la fin des années 50. St-Thomas est l'un de ses morceaux les plus connus. Il est aussi réputé pour avoir sorti quelques albums importants tels que "The Bridge" ou son "Freedom Now Suite"
+Sonny rollins (saxophone ténor) est également une figure majeure du jazz à la fin des années 50. "St-Thomas" est l'un de ses morceaux les plus connus. Il est aussi réputé pour avoir sorti quelques albums importants tels que "The Bridge" ou son "Freedom Now Suite"
   </p>
 </figure>
 

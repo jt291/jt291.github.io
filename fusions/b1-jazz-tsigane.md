@@ -18,14 +18,14 @@ Ce morceau est l'un des plus connu de Django Reinhardt et Stéphane Grappelli. I
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cyZFhJbedA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <!-- <video controls src="assets/images/Minor-Swing--Bireli-Lagrene2.mp4"></video> -->
   <p>
-   Biréli Lagrène est un des successeurs de django Reinhardt. Il a contribuer à la redécouverte du Jazz Tzigane dans les années 1990.
+   Biréli Lagrène est un des successeurs de django Reinhardt. Il a contribué à la redécouverte du Jazz Tzigane dans les années 1990.
   </p>
 </figure>
 <figure class="app-frame encart text-align-center fusions" data-title="Django's Waltz - Romane">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/c4eIzI0mx7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <!-- <video controls src="assets/images/Django-s-Waltz-Mont-St-Genevieve-Romane-vidiget-dot-com-1388190.mp4"></video> -->
   <p>
-    Romane est une autre figure majeure du  Jazz Tzigane. Il a crée ssa propre école de Musique Manouche : La Swing Romane Academy
+    Romane est une autre figure majeure du  Jazz Tzigane. Il a crée ssa propre école de Musique Manouche : La Swing Romane Academy.
   </p>
 </figure>
 </div>

@@ -2,7 +2,7 @@
 
 ## Présentation générale
  Le succès du jazz est assuré auprès d'un large public. Il s'est développé dans tous les états des Etats-Unis durant les années 1920. Beaucoup d'orchestres se sont créés et se produisent dans de nombreuses salles. Par exemple Harlem, ce quartier africain-américain de New York, comporte de nombreux clubs (comme le Cotton Club, le Savoy...) vers lesquels se presse un large public.
-Les salles sont de plus en plus grandes et la musique festive, joyeuse et dansante sert à divertir le public. Pour répondre à cette demande les orchestres grandissent aussi. C'est la naissance des fameux Big Band, ces grands orchestres avec de nombreux soufflants (trompettes, trombones, saxophones) autour de la section rythmique (piano, conterbasse, batterie, guitare).
+Les salles sont de plus en plus grandes et la musique festive, joyeuse et dansante sert à divertir le public. Pour répondre à cette demande les orchestres grandissent aussi. C'est la naissance des fameux [Big Band](/formations/c6-big-band.md), ces grands orchestres avec de nombreux soufflants (trompettes, trombones, saxophones) autour de la section rythmique (piano, conterbasse, batterie, guitare).
 De grands chefs d'orchestre vont émerger durant cette période. Ils s'appellent Duke Ellington, Count Basie, Billy Eckstine. Ils composent des musiques sur mesure pour leurs musiciens ou reprennent des airs à la mode pour les jouer de manière swing.
 Le morceau présenté est interprété par Duke Ellington et son orchestre. Duke Ellington fut l'un des compositeurs américains les plus importants du XXè siècle.
 
@@ -23,7 +23,7 @@ La réexposition du thème est faite par tous les musiciens (tutti) sur AA, puis
   <iframe width="560" height="315" src="https://www.youtube.com/embed/jM3DNpnNv5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <!-- <video controls src="assets/images/1932-HITS-ARCHIVE-It-Don-t-Mean-A-Thing-If-It-Ain-t-Got-That-Swing-Duke-Ellington-Ivie-A-voc-vidiget-dot-com-1387566.mp4"></video> -->
   <p>
-   Count Basie est un autre grand pianiste et directeur de big band. Son jeu pianistique,  tout en finesse est assez reconnaissable. Il a affiné son jeu au cours de sa carrière. Voici une vidéo pour prendre la mesure de l'importance donnée à la présentation des musiciens (pupitres, costumes...).
+   Count Basie est un autre grand pianiste et directeur de <a href="/#/formations/c6-big-band.md#Big-Band">Big Band</a>. Son jeu pianistique,  tout en finesse est assez reconnaissable. Il a affiné son jeu au cours de sa carrière. Voici une vidéo pour prendre la mesure de l'importance donnée à la présentation des musiciens (pupitres, costumes...).
   </p>
 </figure>
 
@@ -31,7 +31,7 @@ La réexposition du thème est faite par tous les musiciens (tutti) sur AA, puis
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TPphR3oF4-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <!-- <video controls src="assets/images/Billy-ECKSTINE-His-Orchestra-Rhythm-In-A-Riff-vidiget-dot-com-1387598.mp4"></video> -->
   <p>
-   Billy Eckstine est sans doute moins connu du grand public. Son apport fut pourtant très intéressant. Il resta toujours ouvert aux nouveautés musicales. Et tout en dirigeant un big band, il permit aux éléments du Be Bop de s'exprimer dans son orchestre.
+   Billy Eckstine est sans doute moins connu du grand public. Son apport fut pourtant très intéressant. Il resta toujours ouvert aux nouveautés musicales. Et tout en dirigeant un <a href="/#/formations/c6-big-band.md#Big-Band">Big Band</a>, il permit aux éléments du Be Bop de s'exprimer dans son orchestre.
   </p>
 </figure>
 </div>

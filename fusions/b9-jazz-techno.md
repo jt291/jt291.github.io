@@ -22,7 +22,7 @@ Le morceau commence par la mise en place d'une rythmique assez rapide et fournie
     <iframe width="560" height="315" src="https://www.youtube.com/embed/_i9G_UvA1XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <!-- <video controls src="assets/images/Julien Lourau — Voodoo House (Gambit 2000).mp4"></video> -->
   <p>
-   Le saxophoniste de Jazz, Julien Loureau se tourne en 1999 vers les musiques électroniques. Il sort en 2002 l'album "Gambit", qui draine, lors de ses concerts, un public jeune, nombreux et différent du public de jazz traditionnel. Voodoo House est le 6è morceau de cet album.
+   Le saxophoniste de Jazz, Julien Loureau se tourne en 1999 vers les musiques électroniques. Il sort en 2002 l'album "Gambit", qui draine, lors de ses concerts, un public jeune, nombreux et différent du public de jazz traditionnel. "Voodoo House" est le 6è morceau de cet album.
   </p>
 </figure>
 <figure class="app-frame encart text-align-center fusions" data-title="Spintronix - Laurent de Wilde">

@@ -187,9 +187,6 @@ nav.app-nav button.btn-theme {
 .markdown-section figure.encart {
   margin: 0;
 }
-.link-encart-paragraphe + a {
-  text-decoration: none;
-}
 
 
 /* app-frame device-frames */

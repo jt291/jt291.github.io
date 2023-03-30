@@ -25,3 +25,8 @@ Le développement du site repose essentiellement sur :
 - <a href='https://fr.wikipedia.org/wiki/Markdown' target=_blank><code>markdown</code></a>  comme langage de balisage pour coder les différents textes; le code source <code>markdown</code> est traduit à la volée en <code>html</code> par <code>docsify</code> à l'aide d'un interpréteur <a href='https://marked.js.org' target=_blank><code>marked</code></a>  embarqué;
 - <a href='https://code.visualstudio.com' target=_blank>Visual Studio Code</a> comme éditeur de textes pour rédiger les différents codes.
 
+## Bibliographie
+
+Les ouvrages sur le jazz sont très nombreux. Il y en a pour tous les niveaux et pour toutes sortes d'entrées (technique, historique...). Mises à part les ressources en ligne, de type wikipédia, je m'appuie pour l'essentiel sur 2 livres au format poche :
+- "Le peuple du Blues", LeRoi Jones, éd. Folio, Paris, 1997.
+- "Free Jazz Black Power", Philippe Carles, Jaean-Louis Comolli, éd. Folio, Paris, 2001.

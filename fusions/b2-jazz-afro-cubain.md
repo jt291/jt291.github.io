@@ -1,7 +1,7 @@
 # Jazz Afro-Cubain : dès 1945
 
 ## Présentation générale
-Le Jazz afro-cubain est un courant du Jazz issu de Jazz Latin. Ce l'oncréesont les musiciens d'origines afro-cubaines qui l'ont crée dans les années 1940 sur l'ile de Cuba. Dizzy Gillespie va s'approprier des éléments musicaux pour les intégrer à ses propres compositions. En outre, il invitera souvent des musiciens cubains à venir jouer dans le big band qu'il a formé dans la 2è partie des années 1940.
+Le Jazz afro-cubain est un courant du Jazz issu de [Jazz Latin](/fusions/b5-latin-jazz.md#Présentation-Générale). Ce l'oncréesont les musiciens d'origines afro-cubaines qui l'ont crée dans les années 1940 sur l'ile de Cuba. Dizzy Gillespie va s'approprier des éléments musicaux pour les intégrer à ses propres compositions. En outre, il invitera souvent des musiciens cubains à venir jouer dans le big band qu'il a formé dans la 2è partie des années 1940.
 
 <figure class="app-frame fusions text-align-center" data-title="Cubano Bop - Dizzy Gillespie">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/dtCwaEK_TjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

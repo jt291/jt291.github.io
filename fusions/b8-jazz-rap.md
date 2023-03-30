@@ -1,9 +1,9 @@
 # Jazz Rap : années 1990
 
 ## Présentation générale
-Le Hip-Hop jazz, aussi appelé rap-jazz, jazz-rap ou jazz-hop, est un sous-genre du rap. Ce terme est utilisé par une partie de la presse et des auditeurs de rap pour catégoriser les artistes et morceaux de rap qui utilisent des samples ou des orchestrations jazz. Bien qu’utilisé par la presse et des auditeurs, le terme peut être qualifié de «non-officiel», puisque beaucoup d’artistes ayant composé des morceaux de Hip-Hop jazz ne se revendiquent pas particulièrement d’un courant appelé tel quel.
-D'une autre part, des musiciens de jazz se sont inspirés de la scène Rap pour nourir leurs propres compositions. Certains ont invité des rappeurs sur leurs albums.
-C'est Miles Davis qui une fois de plus lance le mouvement en sortant son album "Doo-Bop" en 1992. Ce dernier disque est une fois encore à l'avant-garde d'un nouveau genre : le nu jazz. La fusion jazz/hip-hop, notamment, inspirera ensuite les musiciens Erik Truffaz ou US3. Du bebop des années 40, (qui est une forme de jazz urbain) au funk urbain de Doo-Bop, pour Miles Davis la boucle est définitivement bouclée.
+Le Hip-Hop Jazz, aussi appelé Rap-Jazz, Jazz-Rap ou Jazz-Hop, est un sous-genre du Rap. Ce terme est utilisé par une partie de la presse et des auditeurs de Rap pour catégoriser les artistes et morceaux de Rap qui utilisent des samples ou des orchestrations Jazz. Bien qu’utilisé par la presse et des auditeurs, le terme peut être qualifié de «non-officiel», puisque beaucoup d’artistes ayant composé des morceaux de Hip-Hop Jazz ne se revendiquent pas particulièrement d’un courant appelé tel quel.
+D'une autre part, des musiciens de Jazz se sont inspirés de la scène Rap pour nourir leurs propres compositions. Certains ont invité des rappeurs sur leurs albums.
+C'est Miles Davis qui une fois de plus lance le mouvement en sortant son album "Doo-Bop" en 1992. Ce dernier disque est une fois encore à l'avant-garde d'un nouveau genre : le Nu Jazz. La fusion Jazz/Hip-Hop, notamment, inspirera ensuite les musiciens Erik Truffaz ou US3. Du Be Bop des années 40, (qui est une forme de Jazz Urbain) au Funk Urbain de Doo-Bop, pour Miles Davis la boucle est définitivement bouclée.
 
 <figure class="app-frame fusions text-align-center" data-title="Bukowski(Chapter-1) - Erik Truffaz">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/foVkzSqRr_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 # Hard Bop : 1955--1960
 
 ## Présentation générale
-La réaction au style cool ne s'est pas faite attendre très longtemps. Les jazzmen africains-américains se sentent une nouvelle fois dépossédés de leur musique. Ayant été formés durant la période Be Bop ils en  reprennent les fondamentaux tout en se référents aux autres styles africains-américains (Gospel, Blues, Rythm 'N' Blues...) ainsi qu'à leurs origines africaines. Les compositions sont plus bluesy ou funky voire churchy.C'est le courant musical qui préfigure les luttes pour les droits civiques qui vont se déclarer très peu de temps après. Les musiciens sont de plus en plus engagés politioquement et le font savoir. Leur musique s'en ressent.
+La réaction au style cool ne s'est pas faite attendre très longtemps. Les jazzmen africains-américains se sentent une nouvelle fois dépossédés de leur musique. Ayant été formés durant la période Be Bop ils en  reprennent les fondamentaux tout en se référents aux autres styles africains-américains (Gospel, Blues, Rythm'N'Blues...) ainsi qu'à leurs origines africaines. Les compositions sont plus bluesy ou funky voire churchy. C'est le courant musical qui préfigure les luttes pour les droits civiques qui vont se déclarer très peu de temps après. Les musiciens sont de plus en plus engagés politioquement et le font savoir. Leur musique s'en ressent.
 L'un des grands représentant de ce style est la batteur Art Blakey qui jouera pendant longtemps avec son groupe en constante évolution les "Jazz Messangers".
 
 
@@ -12,8 +12,8 @@ L'un des grands représentant de ce style est la batteur Art Blakey qui jouera p
 
 ## Eléments d'analyse
 Le morceau commence directement par l'exposition du thème. C'est à nouveau un thème de 32 mesures de forme AABA. La partie A de ce thème est un basé sur un dialogue entre les instruments. Le 1er A est initié par le piano et les soufflants (trompette et saxophone) répondent. Sur le 2è A les rôle s'inversent. nous sommes tout à fait dans l'esprit d'un gospel avec cet idée de question-réponse entre un soliste ou groupe de soliste et le reste de l'orchestre. La partie B est énoncée par tous (en tutti) comme une prolongation du A. Le dernier A de l'exposition du thème est comme le tout 1er. Puis c'est ensuite les solos :
-- 1/ Solo de Lee Morgan (trompette) avec une entrée fracassante jouée avec un son très direct et faisant référence au Rythm 'N' Blues
-- 2/ Solo de Benny Golson (saxophone ténor) qui reprend au début de son solo le lotif de fin du solo précédent comme un passage de relai.
+- 1/ Solo de Lee Morgan (trompette) avec une entrée fracassante jouée avec un son très direct et faisant référence au Rythm'N'Blues
+- 2/ Solo de Benny Golson (saxophone ténor) qui reprend au début de son solo le motif de fin du solo précédent comme un passage de relai.
 - 3/ Solo de Bobby Timmons (piano) très bluesy dans l'esprit
 - 4/ Solo de Jymie Merritt (contrebasse)
 Le thème est réexposé entièrement comme lors de l'exposition. Puis pour finir la tête (le début de la partie B) est répétée 4 fois en guise de coda et le piano fait quelques fioritures pour signaler la fin du morceau.

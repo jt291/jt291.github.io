@@ -11,7 +11,7 @@ Mulatu Astatke est probablement la figure la plus emblématique et connue de l'�
 </figure>
 
 ## Eléments d'analyse
-Ce morceau construit sur une rythmique à 3 temps, comme une valse qui tourne sans fin. Ce côté répétitif et stable sur une harmonie unique renforce l'idée de nostalgie évoquée dans le titre du morceau. Un saxophone énonce un motif répétitif qui fait figure de thème qu'il présente en variant la mélodie. Le piano prend un moment le relais. Son improvisation s'échappe un peu plus du modèle du thème de départ. Puis le saxophone revient pour énoncer le thème et quelques vatriations avant la fin du morceau par la baisse progressive du volume jusqu'au silence.
+Ce morceau construit sur une rythmique à 3 temps, comme une valse qui tourne sans fin. Ce côté [répétitif](/coeurs/d3-repetitif#Présentation-Générale) et stable sur une harmonie unique renforce l'idée de nostalgie évoquée dans le titre du morceau. Un saxophone énonce un motif répétitif qui fait figure de thème qu'il présente en variant la mélodie. Le piano prend un moment le relais. Son improvisation s'échappe un peu plus du modèle du thème de départ. Puis le saxophone revient pour énoncer le thème et quelques vatriations avant la fin du morceau par la baisse progressive du volume jusqu'au silence.
 
 # Ecoutes complémentaires
 <div class="encarts">

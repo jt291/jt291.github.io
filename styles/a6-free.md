@@ -12,7 +12,7 @@ La scène musicale de Chicago est un exemple important d'entreprise collective d
 ## Eléments d'analyse
 L'Art Ensemble of Chicago a exploré de nombreuses directions musicales : l'héritage des musiques africaines, l'héritage du jazz, les musiques traditionnelles à travers le monde, mais aussi la musique classique occidentale. Les musiciens pratiquent souvent un instrument au départ mais jouent de plein d'autres instruments pour expérimenter différentes matières sonores et manières de jouer d'un instrument (les modes de jeu). Nul besoin d'être un virtuose de son instrument pour jouer. Le but est d'être expressif.
 Les concerts deviennent des performances et sont vécus comme des cérémonies. Les musiciens sont costumés et portent parfois des peintures sur le visage.
-Le choix du morceau a été fait pour signifier que l'on peut aussi entendre des morceaux tout à fait agréables, même dans ce style de musique, et surtout parce que c'est un morceau qui a un groove très plaisant. "Odwalla" est construit sur un thème simple en 3 parties ABA avec une ligne de basse très répétitive. La forme du morceau est la suivante :
+Le choix du morceau a été fait pour signifier que l'on peut aussi entendre des morceaux tout à fait agréables, même dans ce style de musique, et surtout parce que c'est un morceau qui a un groove très plaisant. "Odwalla" est construit sur un thème simple en 3 parties ABA avec une ligne de basse très [répétitive](/coeurs/d3-repetitif.md). La forme du morceau est la suivante :
 - Exposition du thème ABA dès le début du morceau.
 - Solo de la trompette et du saxophone en même temps (chacun laissant de la place à l'autre pour être complémentaires puis la trompette jouant plutôt un accompagnement vers la fin du morceau)
 - Enoncé de la partie B du thème
@@ -29,7 +29,7 @@ Il existe différentes versions toutes très différentes de ce morceau embléma
     <iframe width="560" height="315" src="https://www.youtube.com/embed/iPDzlSda8P8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <!-- <video controls src="assets/images/Ornette-Coleman-Free-Jazz-1961-Full-Album-vidiget-dot-com-1388083.mp4"></video> -->
   <p>
-Cette fois-ci c'est tout l'album d'Ornette Coleman qui est proposé à l'écoute car c'est l'album qui va donner son nom au style. L'écoute n'est pas facile du fait de l'improvisation collective des musiciens. Parce qu'il a été enregistré avec un double quartet, on peut écouter au moins 3 fois l'album. Chaque quartet étant localisé d'un côté de la stéréophonie, on peut écouter d'abord ce qui est joué à droite puis à gauche et enfin la superposition des 2.
+Cette fois-ci c'est tout l'album d'Ornette Coleman qui est proposé à l'écoute car c'est l'album qui va donner son nom au style. L'écoute n'est pas facile du fait de l'improvisation collective des musiciens. Parce qu'il a été enregistré avec un double <a href="/#/formations/c4-quartet.md#Quartet">quartet</a>, on peut écouter au moins 3 fois l'album. Chaque quartet étant localisé d'un côté de la stéréophonie, on peut écouter d'abord ce qui est joué à droite puis à gauche et enfin la superposition des 2.
   </p>
 </figure>
 

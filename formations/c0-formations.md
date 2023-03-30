@@ -28,10 +28,19 @@ Les formations de Jazz sont à géométrie variable et il existe de très nombre
 </div>
 
 ## Quintet
-[<div class="encart-paragraph"><figure class="app-frame formations encart styles" data-title="Art Blakey and the Jazz Messangers"><img src="assets/images/Art-Blakey-and-the-Jazz-Messangers2.jpg"></figure><p> Il n'est pas rare qu'un 5è musicien s'ajoute pour constituer un quintet. C'est plus souvent un 2è soufflant qui s'ajoute au quartet. Et comme à chaque fois des formules plus originales ont pu exister avec bohneur.</p></div>](/formations/c5-quintet.md#présentation-générale)
+<div class="encart-paragraph">
+<a href="/#/formations/c5-quintet.md#Quintet">
+<figure class="app-frame formations encart styles" data-title="Art Blakey and the Jazz Messangers"><img src="assets/images/Art-Blakey-and-the-Jazz-Messangers2.jpg"></figure></a>
+<p> Il n'est pas rare qu'un 5è musicien s'ajoute pour constituer un quintet. C'est plus souvent un 2è soufflant qui s'ajoute au quartet. Et comme à chaque fois des formules plus originales ont pu exister avec bohneur.</p></div>
 
 ## Big Band
-[<div class="encart-paragraph"><p> Le Big Band est la formation phare du jazz des années 1930. Autour de la ryhmique de base (piano, contrebasse, batterie plus éventuellement une guitare) de nombreux soufflants sont ajoutés (en général 4 trompettes, 4 saxophones, 4 trombones et parfois des instruments additionnels) auxquels peut s'ajouter un chanteur ou une chanteuse.</p><figure class="app-frame formations encart styles" data-title="Big Band de Duke Ellington"><img src="assets/images/Big-Band-Duke-Ellington3.jpg"></figure></div>](/formations/c6-big-band.md#présentation-générale)
+<div class="encart-paragraph"><p> Le Big Band est la formation phare du jazz des années 1930. Autour de la ryhmique de base (piano, contrebasse, batterie plus éventuellement une guitare) de nombreux soufflants sont ajoutés (en général 4 trompettes, 4 saxophones, 4 trombones et parfois des instruments additionnels) auxquels peut s'ajouter un chanteur ou une chanteuse.</p>
+<a href="/#/formations/c6-big-band.md#Big-Band">
+<figure class="app-frame formations encart styles" data-title="Big Band de Duke Ellington"><img src="assets/images/Big-Band-Duke-Ellington3.jpg"></figure></a>
+</div>
 
 ## Autres
-[<div class="encart-paragraph"><figure class="app-frame formations encart styles" data-title="Andy Emler Megaoctet"><img src="assets/images/Andy-Emler-Megaoctet4.jpg"></figure><p> Il existe d'autres formules de formations avec de nombreux musicens sans que l'on puisse pourtant parler de Big Band.</p></div>](/formations/c7-autres.md#présentation-générale)
+<div class="encart-paragraph">
+<a href="/#/formations/c7-autres.md#Autres">
+<figure class="app-frame formations encart styles" data-title="Andy Emler Megaoctet"><img src="assets/images/Andy-Emler-Megaoctet4.jpg"></figure></a>
+<p> Il existe d'autres formules de formations avec de nombreux musicens sans que l'on puisse pourtant parler de Big Band.</p></div>

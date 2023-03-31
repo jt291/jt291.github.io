@@ -9,9 +9,10 @@ Les formations de Jazz sont à géométrie variable et il existe de très nombre
 <p> De nombreux musiciens se sont produits en solo. Ce sont souvent des musiciens qui jouent d'instruments harmoniques afin de pouvoir, à la fois jouer des mélodies mais aussi s'accompagner en jouant des accords (piano, guitare, vibraphone...). Parfois des musiciens jouant d'instruments monodiques (ne jouant qu'un seul son à la fois) ont tenté l'expérience avec succès.</p></div>
 
 ## Duo
-<div class="encart-paragraph"><p>La formule du duo a été expérimentée de plein de manières différentes. Elle est souvent signe d'une grande complicité musicale entre les 2 musiciens.</p>
+<div class="encart-paragraph right">
 <a href="/#/formations/c2-duo.md">
 <figure class="app-frame formations encart styles" data-title="Chick Corea et Gary Burton"><img src="assets/images/Chick-Corea__Gary-Burton.jpg"></figure></a>
+<p>La formule du duo a été expérimentée de plein de manières différentes. Elle est souvent signe d'une grande complicité musicale entre les 2 musiciens.</p>
 </div>
 
 ## Trio
@@ -22,9 +23,10 @@ Les formations de Jazz sont à géométrie variable et il existe de très nombre
 
 
 ## Quartet
-<div class="encart-paragraph"><p> Au trio traditionnel de jazz s'ajoute souvent un 4è musicien pour former un quartet. C'est le plus souvent un soufflant (instrument à vent tel que la trompette, le saxophone...). Mais là encore des formules plus surprenantes se sont révélées convaincantes. </p>
+<div class="encart-paragraph right">
 <a href="/#/formations/c4-quartet.md">
 <figure class="app-frame formations encart styles" data-title="John Coltrane Quartet"><img src="assets/images/John-Coltrane-Quartet.jpg"></figure></a>
+<p> Au trio traditionnel de jazz s'ajoute souvent un 4è musicien pour former un quartet. C'est le plus souvent un soufflant (instrument à vent tel que la trompette, le saxophone...). Mais là encore des formules plus surprenantes se sont révélées convaincantes. </p>
 </div>
 
 ## Quintet
@@ -34,9 +36,10 @@ Les formations de Jazz sont à géométrie variable et il existe de très nombre
 <p> Il n'est pas rare qu'un 5è musicien s'ajoute pour constituer un quintet. C'est plus souvent un 2è soufflant qui s'ajoute au quartet. Et comme à chaque fois des formules plus originales ont pu exister avec bohneur.</p></div>
 
 ## Big Band
-<div class="encart-paragraph"><p> Le Big Band est la formation phare du jazz des années 1930. Autour de la ryhmique de base (piano, contrebasse, batterie plus éventuellement une guitare) de nombreux soufflants sont ajoutés (en général 4 trompettes, 4 saxophones, 4 trombones et parfois des instruments additionnels) auxquels peut s'ajouter un chanteur ou une chanteuse.</p>
+<div class="encart-paragraph right">
 <a href="/#/formations/c6-big-band.md">
 <figure class="app-frame formations encart styles" data-title="Big Band de Duke Ellington"><img src="assets/images/Big-Band-Duke-Ellington3.jpg"></figure></a>
+<p> Le Big Band est la formation phare du jazz des années 1930. Autour de la ryhmique de base (piano, contrebasse, batterie plus éventuellement une guitare) de nombreux soufflants sont ajoutés (en général 4 trompettes, 4 saxophones, 4 trombones et parfois des instruments additionnels) auxquels peut s'ajouter un chanteur ou une chanteuse.</p>
 </div>
 
 ## Autres

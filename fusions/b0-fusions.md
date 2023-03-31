@@ -5,7 +5,7 @@ Le Jazz est une musique née du croisement de nombreuses musiques différentes. 
 ## A partir de 1935 : Jazz Tzigane
 
 <div class="encart-paragraph">
-<a href="/#/fusions/b1-jazz-tsigane.md#présentation-générale">
+<a href="/#/fusions/b1-jazz-tsigane.md">
 <figure class="app-frame fusions encart styles" data-title="Le Quintette Hot Club de France">
 <img src="assets/images/quintette-hot-club-de-france.jpg">
 </figure>
@@ -13,10 +13,10 @@ Le Jazz est une musique née du croisement de nombreuses musiques différentes. 
 <p>Le jazz est arrivé en Europe par l'intermédiaire de la France en 1917, date de l'entrée des Etats-Unis dans le conflit de la 1ère Guerre Mondiale. Des musiciens européens s'éssayent à cette nouvelle musique si entrainante. D'autres s'approprient cette musique et la fusionnent à leurs propres cultures musicales. C'est le cas du guitariste Django Reinhardt qui crée le Jazz Tzigane ou Jazz Manouche avec Stéphane Grappelli au violon et les membres du Quintette Hot Club de France dès 1935.</p></div>
 
 ## Dès 1945 : Jazz Afro-cubain
-<div class="encart-paragraph">
-<p>Charlie Parker n'est plus un musicien fiable. Sa dépendance aux drogues est ravageuse. Il rate des concerts ou des sessions d'enregistrement. Les autres musiciens ne lui font plus confiance. Son complice, Dizzy Gillespie prend ses distances et en profite pour aller chercher de nouvelles sources d'inspiration musicale. C'est en intégrant des éléments de musiques cubaines d'origines africaines qu'il va créer le Jazz Afro-Cubain.</p>
+<div class="encart-paragraph right">
 <a href="/#/fusions/b2-jazz-afro-cubain.md">
 <figure class="app-frame fusions encart styles" data-title="Le Big Band de Dizzy Gillespie"><img src="assets/images/big-band-dizzy-gillespie.jpg"></figure></a>
+<p>Charlie Parker n'est plus un musicien fiable. Sa dépendance aux drogues est ravageuse. Il rate des concerts ou des sessions d'enregistrement. Les autres musiciens ne lui font plus confiance. Son complice, Dizzy Gillespie prend ses distances et en profite pour aller chercher de nouvelles sources d'inspiration musicale. C'est en intégrant des éléments de musiques cubaines d'origines africaines qu'il va créer le Jazz Afro-Cubain.</p>
 </div>
 
 
@@ -28,9 +28,10 @@ Le Jazz est une musique née du croisement de nombreuses musiques différentes. 
 </div>
 
 ## A partir des années 60 : Ethio Jazz
-<div class="encart-paragraph"><p>L'Ethio-Jazz est représentatif d'une appropriation musicale de musiques extérieures par des artistes locaux. On est dans ce cas en Ethiopie (et Erythrée). L'Ethio-Jazz est un mélange de jazz, de musique traditionnelle éthiopienne, de la musique latine, de la soul/funk et de la musique pop anglo-américaine</p>
+<div class="encart-paragraph right">
 <a href="/#/fusions/b4-ethio-jazz.md">
 <figure class="app-frame fusions encart styles left" data-title="Mulatu Astatke"><img src="assets/images/Mulatu-Astatke2.jpg"></figure></a>
+<p>L'Ethio-Jazz est représentatif d'une appropriation musicale de musiques extérieures par des artistes locaux. On est dans ce cas en Ethiopie (et Erythrée). L'Ethio-Jazz est un mélange de jazz, de musique traditionnelle éthiopienne, de la musique latine, de la soul/funk et de la musique pop anglo-américaine</p>
 </div>
 
 
@@ -42,10 +43,10 @@ Le Jazz est une musique née du croisement de nombreuses musiques différentes. 
 </div>
 
 ## Début des années 1970 : Jazz-Funk
-<div class="encart-paragraph">
-<p>Toujours attentifs aux nouveautés musicales les jazzmen à la suite du hard bop vont métisser leur musique à d'autres styles musicaux. La Jazz-Funk est la fusion des codes du jazz, en terme de structure, d'exploitation des morceaux et des rythmiques syncopées agrémentés de l'instrumentation du Funk.</p>
+<div class="encart-paragraph right">
 <a href="/#/fusions/b6-funk-jazz.md">
 <figure class="app-frame fusions encart styles" data-title="Herbie Hancock"><img src="assets/images/Herbie-Hancock.jpg"></figure></a>
+<p>Toujours attentifs aux nouveautés musicales les jazzmen à la suite du hard bop vont métisser leur musique à d'autres styles musicaux. La Jazz-Funk est la fusion des codes du jazz, en terme de structure, d'exploitation des morceaux et des rythmiques syncopées agrémentés de l'instrumentation du Funk.</p>
 </div>
 
 ## Dès les années 1970 : World Jazz
@@ -55,10 +56,10 @@ Le Jazz est une musique née du croisement de nombreuses musiques différentes. 
 <p>Autres sources d'inspiration, autres métissages. C'est en allant à la rencontre de musiques du monde, c'est à dire de musiques traditionnelles de tous les continents que les jazzmen regénèrent leur musique. Certains vont voyager en Asie, en Afrique ou Amérique Latine. Les musiciens vont intégrer des éléments de musique du monde (thèmes, rythmes, harmonies, instrumentations...). On parle parfois aussi d'Ethno-Jazz.</p></div>
 
 ## Début des années 1990 : Rap Jazz
-<div class="encart-paragraph">
-<p>Le principe d'une fusion d'éléments musicaux venant du rap ont été intégrés à certains morceaux de jazz. Les jazzmen ont invité des rappeurs à venir poser leurs instrus et/ou leur voix sur des morceaux de jazz. L'inverse a également été expérimenté. Des jazzmen ont été invités à jouer sur des productions de rappeurs. </p>
+<div class="encart-paragraph right">
 <a href="/#/fusions/b8-jazz-rap.md">
 <figure class="app-frame fusions encart styles" data-title="Jazz et Rap"><img src="assets/images/image_0744705_20160225_ob_bc4127_capture-d-ecran-2016-02-25-a-15-55.jpg"></figure></a>
+<p>Le principe d'une fusion d'éléments musicaux venant du rap ont été intégrés à certains morceaux de jazz. Les jazzmen ont invité des rappeurs à venir poser leurs instrus et/ou leur voix sur des morceaux de jazz. L'inverse a également été expérimenté. Des jazzmen ont été invités à jouer sur des productions de rappeurs. </p>
 </div>
 
 ## Années 1990 : Techno Jazz

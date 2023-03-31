@@ -184,6 +184,9 @@ nav.app-nav button.btn-theme {
 .encart-paragraph p {
   flex: 1 1 0;
 }
+.encart-paragraph.right {
+ flex-direction : row-reverse;
+}
 .markdown-section figure.encart {
   margin: 0;
 }
